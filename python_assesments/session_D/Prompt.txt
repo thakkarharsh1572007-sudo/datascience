@@ -1,0 +1,5 @@
+Prompt: "Write a Python script for a food delivery platform that fetches 5 records from 
+[https://jsonplaceholder.typicode.com/posts?_limit=5](https://jsonplaceholder.typicode.com/posts?_limit=5).
+Handle API failures by printing an error instead of crashing. 
+Then, apply a tiered commission (10% up to Rs 200, 15% for Rs 201-500, 20% above Rs 500) to a hardcoded list of 6 amounts using map and lambda,
+printing the results. Finally, save the 5 fetched records to data/processed/records.json using json.dump with an indent of 2."

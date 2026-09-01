@@ -1,0 +1,111 @@
+Here are the structured answers for all six scenarios in Section A of the assessment file.
+
+### Scenario 1: Data Science Lifecycle & Generative AI
+
+* **Problem Definition**: The deliverable is a formal project scope mapping business goals to predictive metrics for the 7-9 PM demand window.
+
+
+* **Data Collection**: The deliverable is the raw dataset extracted from the two years of spreadsheets.
+
+
+* **Data Preparation**: The deliverable is a clean, structured dataset ready for algorithmic processing.
+
+
+* **Exploration**: The deliverable is a set of visual charts identifying historical demand trends.
+
+
+* **Modelling**: The deliverable is the predictive algorithm built to forecast restaurant zone demand.
+
+
+* **Evaluation**: The deliverable is a performance report detailing model accuracy before deployment.
+
+
+* **AI Application (Preparation)**: Generative AI can rapidly write data-cleaning scripts to format the spreadsheets. **Risk**: AI might hallucinate logic that silently drops valuable edge-case records without human review.
+
+
+* **AI Application (Exploration)**: AI can instantly generate complex plotting code. **Risk**: It might misinterpret the underlying data schema, leading to factually misleading graphs.
+
+
+
+---
+
+### Scenario 2: Git Branching & Collaboration
+
+* **Branching Strategy**: Branching isolates each developer's work, ensuring the main branch remains stable and unbroken until new code is reviewed and merged.
+
+
+* **Command Sequence**: A developer will run `git checkout -b feature-branch` to start, `git add .` and `git commit -m "message"` to save changes, and `git push origin feature-branch` to upload. They then raise a Pull Request, and upon approval, complete a merged pull into `main`.
+
+
+* **Merge Conflict**: A conflict occurs if two teammates modify the exact same line in a shared configuration file.
+
+
+* **Resolution**: The developer must pull the latest `main` branch, open the conflicting file to manually remove the `<<<<<<<` and `>>>>>>>` markers, save the correct combined code, and commit the resolved file.
+
+
+
+---
+
+### Scenario 3: Functional Programming for Automation
+
+* **Solution Design**: Define a function `calculate_commission(record)` and apply it using `list(map(lambda x: calculate_commission(x), orders))`.
+
+
+* **Why Map**: The `map()` function is more declarative, concise, and optimized for applying a single transformation across an entire iterable without manually managing loop state.
+
+
+* **Filter Contribution**: `filter()` isolates only the records meeting the audit threshold without mutating the original dataset.
+
+
+* **Reduce Contribution**: `functools.reduce()` takes the mapped list of individual commission values and aggregates them into a single total sum.
+
+
+
+---
+
+### Scenario 4: Object-Oriented Programming (OOP)
+
+* **Modeling via Inheritance**: A base `User` class establishes a common template, while `Customer`, `DeliveryPartner`, and `Admin` subclasses inherit from it and use method overriding to define their specific `display_profile()` behaviors.
+
+
+* **Runtime Problem**: If a loop calls `display_profile()` on all objects, an `AttributeError` will occur and crash the program if a subclass lacks the method and the base class does not provide a fallback.
+
+
+* **Redesign**: Define a default `display_profile()` method directly within the base `User` class (or define it as an abstract method). This guarantees the method exists for any subclass, preventing crashes.
+
+
+
+---
+
+### Scenario 5: API Error Handling & File I/O
+
+* **Status 200**: Success; the script should process and save the retrieved data.
+
+
+* **Status 401**: Unauthorized; the script must halt and prompt the user to check API authentication keys.
+
+
+* **Status 429**: Too Many Requests; the script should implement a time delay (sleep) and retry.
+
+
+* **Status 500**: Server Error; the script should log the error and safely skip the operation.
+
+
+* **Try-Except-Finally**: Placing the file-write step in a `try` block and catching the 500 error in `except` prevents a hard crash. The `finally` block guarantees that `file.close()` runs regardless of exceptions, ensuring the output file is not left open or corrupted mid-write.
+
+
+
+---
+
+### Scenario 6: Regular Expressions (Regex)
+
+* **Validation Strategy**: Use the `re` module to define a strict pattern that only matches valid phone numbers, effectively ignoring typos and extra spaces.
+
+
+* **Pattern Structure**: The pattern should look for an optional country code, followed by exactly 10 digits, allowing for optional standard delimiters like hyphens or spaces in between.
+
+
+* **Findall vs Search**: `re.findall()` extracts every matching instance from the text into a list, whereas `re.search()` stops after finding only the first occurrence.
+
+
+* **Formatting Edge Case**: A naive pattern checking for exactly 10 digits would incorrectly accept "0000000000" or "1234567890", which are structurally valid but practically fake numbers.

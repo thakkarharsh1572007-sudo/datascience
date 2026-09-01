@@ -1,0 +1,6 @@
+Explanation:
+The AI's original code attempted to call response.
+json() immediately after making the request without verifying the HTTP status code first.
+If the API failed and returned a 404 or 500 error with non-JSON text, the script would crash with a JSONDecodeError, 
+violating the requirement to handle failures gracefully. I fixed this by wrapping the .
+json() call inside an if response.status_code == 200: block to ensure we only parse valid, successful responses.  
