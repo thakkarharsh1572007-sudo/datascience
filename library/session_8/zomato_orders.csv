@@ -1,0 +1,1001 @@
+Restaurant_Name,Order_Date,Item_Name,Order_Value_INR
+Biryani Central,2026-07-15,Pad Thai,921.15
+Dim Sum Delight,2026-06-21,Chocolate Cake,1166.21
+Pasta Express,2026-07-22,Margherita Pizza,574.81
+Pizza Paradise,2026-08-25,Pad Thai,876.03
+Taco Fiesta,2026-07-11,Mutton Kebab,773.47
+Noodle Corner,2026-08-20,Mutton Kebab,962.34
+Sweet Cravings,2026-07-24,Mutton Kebab,555.41
+Midnight Munchies,2026-08-27,Chocolate Cake,374.45
+The Kebab Shop,2026-08-26,Tacos,1050.78
+Dim Sum Delight,2026-09-15,Mutton Kebab,1165.58
+Steak Out,2026-07-23,Mutton Kebab,785.76
+Healthy Greens,2026-07-09,Caesar Salad,1076.76
+Burger Hub,2026-08-17,Mutton Kebab,686.14
+Dim Sum Delight,2026-06-20,Mutton Kebab,367.78
+Noodle Corner,2026-08-26,Chocolate Cake,697.4
+Curry House,2026-09-08,Pad Thai,779.9
+Sushi Rollers,2026-08-04,Cheeseburger,998.7
+Curry House,2026-09-15,Tacos,1131.98
+Pasta Express,2026-08-26,Chocolate Cake,1083.86
+Noodle Corner,2026-07-17,Paneer Butter Masala,275.74
+Taco Fiesta,2026-09-06,Pad Thai,1062.7
+Curry House,2026-09-10,California Roll,951.97
+Spice Village,2026-07-16,Cheeseburger,498.9
+Sushi Rollers,2026-08-04,Chicken Biryani,407.91
+Pizza Paradise,2026-07-03,Chocolate Cake,280.36
+The Kebab Shop,2026-09-01,Caesar Salad,1141.24
+Midnight Munchies,2026-07-07,Mutton Kebab,482.09
+Pizza Paradise,2026-08-14,Margherita Pizza,501.49
+Bake & Cake,2026-08-19,Tacos,1044.92
+Vegan Bites,2026-06-25,Mutton Kebab,268.05
+Sushi Rollers,2026-07-24,Mutton Kebab,372.83
+Noodle Corner,2026-07-17,Chicken Biryani,304.97
+Bake & Cake,2026-08-07,Pad Thai,193.23
+Breakfast Club,2026-06-27,Cheeseburger,458.61
+Burger Hub,2026-08-09,California Roll,527.14
+Breakfast Club,2026-07-24,Margherita Pizza,587.33
+Sushi Rollers,2026-08-10,Tacos,705.59
+Healthy Greens,2026-07-28,Paneer Butter Masala,495.27
+Pasta Express,2026-08-09,Margherita Pizza,865.8
+Sweet Cravings,2026-07-15,Chicken Biryani,392.75
+Sushi Rollers,2026-09-17,Margherita Pizza,230.08
+Curry House,2026-08-20,Chocolate Cake,181.66
+Curry House,2026-06-20,Pad Thai,811.52
+Noodle Corner,2026-08-10,Paneer Butter Masala,452.45
+Biryani Central,2026-06-25,Tacos,943.08
+The Kebab Shop,2026-08-29,Mutton Kebab,641.02
+Dim Sum Delight,2026-06-20,Mutton Kebab,367.78
+Dim Sum Delight,2026-09-18,Chicken Biryani,1059.17
+Curry House,2026-08-15,Cheeseburger,699.61
+Curry House,2026-08-25,Margherita Pizza,172.68
+Pizza Paradise,2026-09-01,Tacos,804.17
+Pasta Express,2026-08-29,Cheeseburger,1066.26
+Biryani Central,2026-09-14,Pad Thai,483.49
+Steak Out,2026-08-29,Chocolate Cake,978.91
+Spice Village,2026-07-03,California Roll,833.63
+Sweet Cravings,2026-06-24,Cheeseburger,928.5
+Burger Hub,2026-09-07,Cheeseburger,772.89
+Noodle Corner,2026-09-07,Tacos,722.17
+The Kebab Shop,2026-07-02,Paneer Butter Masala,744.75
+Bake & Cake,2026-07-04,Chicken Biryani,563.49
+Taco Fiesta,2026-08-09,Chocolate Cake,604.04
+Vegan Bites,2026-08-03,Caesar Salad,802.2
+Sushi Rollers,2026-07-12,Chocolate Cake,627.45
+Sweet Cravings,2026-06-25,California Roll,283.05
+Sweet Cravings,2026-09-18,Paneer Butter Masala,267.58
+Dim Sum Delight,2026-07-05,Chocolate Cake,342.7
+Grill Master,2026-07-15,California Roll,338.76
+Midnight Munchies,2026-09-13,Pad Thai,637.28
+Burger Hub,2026-09-01,Mutton Kebab,797.41
+Curry House,2026-07-05,Pad Thai,912.06
+Breakfast Club,2026-08-24,Chicken Biryani,262.81
+Biryani Central,2026-08-05,Tacos,491.86
+The Kebab Shop,2026-09-10,Chicken Biryani,1145.21
+Bake & Cake,2026-07-23,California Roll,487.38
+Sweet Cravings,2026-09-18,Margherita Pizza,996.07
+Spice Village,2026-08-29,Mutton Kebab,869.94
+Sushi Rollers,2026-07-12,Caesar Salad,864.53
+Wok This Way,2026-07-02,Chocolate Cake,798.75
+Dim Sum Delight,2026-07-30,California Roll,771.97
+Pasta Express,2026-06-22,Caesar Salad,612.71
+Healthy Greens,2026-06-22,Margherita Pizza,1074.08
+Spice Village,2026-09-04,Chocolate Cake,614.59
+Midnight Munchies,2026-09-15,Paneer Butter Masala,154.81
+Grill Master,2026-08-04,Margherita Pizza,633.76
+Biryani Central,2026-07-25,Mutton Kebab,1190.26
+Midnight Munchies,2026-09-08,Margherita Pizza,411.85
+Pasta Express,2026-08-23,California Roll,1014.5
+Wok This Way,2026-06-29,Chocolate Cake,731.73
+Bake & Cake,2026-08-23,Cheeseburger,417.23
+Dim Sum Delight,2026-07-30,Margherita Pizza,728.03
+Pizza Paradise,2026-09-02,Margherita Pizza,618.6
+Bake & Cake,2026-08-13,Pad Thai,1102.76
+Dim Sum Delight,2026-08-16,Tacos,424.66
+The Kebab Shop,2026-08-31,Chicken Biryani,1154.69
+Grill Master,2026-07-14,Chicken Biryani,1055.28
+Steak Out,2026-08-03,Tacos,780.55
+Grill Master,2026-09-18,Chicken Biryani,763.03
+Dim Sum Delight,2026-09-07,California Roll,316.68
+Burger Hub,2026-08-12,California Roll,541.72
+Bake & Cake,2026-07-13,Margherita Pizza,995.79
+Vegan Bites,2026-08-26,Caesar Salad,1108.75
+Sushi Rollers,2026-08-28,Caesar Salad,599.72
+Pasta Express,2026-07-02,Paneer Butter Masala,327.25
+Healthy Greens,2026-08-24,California Roll,1132.65
+Healthy Greens,2026-08-14,Cheeseburger,1170.96
+Dim Sum Delight,2026-07-17,California Roll,1095.22
+Wok This Way,2026-08-04,Margherita Pizza,1159.85
+Pasta Express,2026-08-03,Margherita Pizza,1195.57
+Healthy Greens,2026-07-15,Pad Thai,421.25
+Spice Village,2026-07-10,Paneer Butter Masala,590.27
+Burger Hub,2026-07-15,Margherita Pizza,780.18
+Breakfast Club,2026-09-05,Margherita Pizza,567.33
+Vegan Bites,2026-09-17,Mutton Kebab,1074.76
+Grill Master,2026-09-01,Mutton Kebab,739.79
+Taco Fiesta,2026-07-22,Mutton Kebab,621.72
+Bake & Cake,2026-07-08,California Roll,359.12
+Sweet Cravings,2026-08-01,Tacos,164.92
+The Kebab Shop,2026-09-17,Pad Thai,376.6
+Burger Hub,2026-08-05,Mutton Kebab,187.97
+Spice Village,2026-08-18,Mutton Kebab,962.23
+Breakfast Club,2026-09-11,Chicken Biryani,955.77
+Midnight Munchies,2026-08-02,Pad Thai,191.72
+Burger Hub,2026-06-28,Pad Thai,711.43
+Grill Master,2026-07-21,Margherita Pizza,163.58
+Noodle Corner,2026-09-10,Margherita Pizza,223.82
+Grill Master,2026-07-11,Caesar Salad,942.91
+Pasta Express,2026-07-19,Mutton Kebab,1177.05
+The Kebab Shop,2026-09-03,Caesar Salad,738.36
+The Kebab Shop,2026-06-22,Tacos,695.06
+Sweet Cravings,2026-09-03,California Roll,823.54
+Healthy Greens,2026-07-21,Caesar Salad,314.91
+Sweet Cravings,2026-07-08,Mutton Kebab,689.7
+The Kebab Shop,2026-09-15,Paneer Butter Masala,839.24
+Biryani Central,2026-09-16,Chocolate Cake,1149.26
+Midnight Munchies,2026-09-14,Cheeseburger,1096.71
+Sushi Rollers,2026-07-12,Margherita Pizza,339.26
+Biryani Central,2026-07-07,Chocolate Cake,164.16
+Sweet Cravings,2026-09-06,Mutton Kebab,200.99
+The Kebab Shop,2026-09-14,Pad Thai,236.65
+Healthy Greens,2026-09-12,Chocolate Cake,359.56
+Taco Fiesta,2026-08-07,Cheeseburger,887.45
+Pizza Paradise,2026-08-22,Margherita Pizza,628.95
+Pasta Express,2026-07-08,Mutton Kebab,334.18
+Dim Sum Delight,2026-09-10,Paneer Butter Masala,672.29
+Midnight Munchies,2026-08-26,Mutton Kebab,775.17
+Midnight Munchies,2026-09-12,Chocolate Cake,222.16
+Dim Sum Delight,2026-08-07,Chicken Biryani,200.04
+Steak Out,2026-07-08,Cheeseburger,824.67
+Curry House,2026-07-07,Caesar Salad,583.41
+Pizza Paradise,2026-08-04,Caesar Salad,436.36
+Spice Village,2026-08-19,Margherita Pizza,535.1
+Spice Village,2026-06-22,Chicken Biryani,294.34
+Midnight Munchies,2026-08-31,Margherita Pizza,852.89
+Taco Fiesta,2026-07-07,Cheeseburger,520.18
+Taco Fiesta,2026-07-12,Chocolate Cake,213.79
+Healthy Greens,2026-08-08,Cheeseburger,1135.12
+Burger Hub,2026-07-05,Chocolate Cake,655.22
+Steak Out,2026-07-24,Pad Thai,239.49
+Bake & Cake,2026-08-24,Mutton Kebab,782.63
+Taco Fiesta,2026-08-28,Pad Thai,926.58
+Noodle Corner,2026-07-25,Chicken Biryani,297.38
+Steak Out,2026-07-17,Chocolate Cake,287.21
+Pasta Express,2026-07-21,Pad Thai,1198.71
+Steak Out,2026-09-17,Tacos,180.89
+Biryani Central,2026-08-14,Paneer Butter Masala,734.02
+Bake & Cake,2026-09-06,Tacos,861.55
+The Kebab Shop,2026-09-01,Margherita Pizza,833.03
+Burger Hub,2026-07-29,Pad Thai,730.6
+Sweet Cravings,2026-07-23,Paneer Butter Masala,1124.09
+Sweet Cravings,2026-08-03,Pad Thai,811.65
+The Kebab Shop,2026-09-17,Pad Thai,376.6
+Bake & Cake,2026-08-14,Paneer Butter Masala,972.46
+Healthy Greens,2026-08-25,Margherita Pizza,442.45
+Taco Fiesta,2026-08-11,Chocolate Cake,514.7
+Grill Master,2026-07-04,Tacos,329.44
+Spice Village,2026-07-29,Chicken Biryani,1147.03
+Burger Hub,2026-07-08,Chicken Biryani,930.0
+Noodle Corner,2026-08-17,California Roll,1062.95
+Biryani Central,2026-07-29,Chicken Biryani,972.63
+Bake & Cake,2026-07-29,Caesar Salad,565.5
+Steak Out,2026-08-19,Caesar Salad,169.82
+Sweet Cravings,2026-07-19,Tacos,957.55
+Dim Sum Delight,2026-07-19,Tacos,341.2
+Steak Out,2026-07-13,Caesar Salad,272.52
+Spice Village,2026-08-21,Mutton Kebab,218.8
+The Kebab Shop,2026-08-20,Cheeseburger,937.46
+Biryani Central,2026-08-02,Caesar Salad,968.15
+Biryani Central,2026-08-24,Margherita Pizza,475.44
+Breakfast Club,2026-07-03,Margherita Pizza,352.68
+Sushi Rollers,2026-09-17,Paneer Butter Masala,905.47
+Spice Village,2026-07-20,Paneer Butter Masala,585.81
+Dim Sum Delight,2026-07-29,California Roll,613.25
+Taco Fiesta,2026-06-20,California Roll,353.88
+Grill Master,2026-07-16,Chocolate Cake,951.69
+Steak Out,2026-06-29,Mutton Kebab,943.82
+Noodle Corner,2026-07-08,Tacos,1110.36
+Healthy Greens,2026-06-30,Paneer Butter Masala,458.41
+Grill Master,2026-09-08,Pad Thai,858.96
+Bake & Cake,2026-08-29,Chicken Biryani,1100.99
+Noodle Corner,2026-07-30,Margherita Pizza,847.79
+Steak Out,2026-06-30,Mutton Kebab,762.67
+Curry House,2026-06-29,Tacos,945.78
+Pizza Paradise,2026-08-28,Mutton Kebab,1119.07
+Healthy Greens,2026-06-22,Chicken Biryani,738.07
+Sushi Rollers,2026-09-02,Tacos,1145.96
+Curry House,2026-08-30,Caesar Salad,601.85
+Sweet Cravings,2026-08-15,Margherita Pizza,1117.41
+Healthy Greens,2026-09-05,Margherita Pizza,710.73
+Sushi Rollers,2026-09-12,Margherita Pizza,906.77
+Dim Sum Delight,2026-09-12,Tacos,1001.62
+Biryani Central,2026-08-20,California Roll,453.79
+Burger Hub,2026-08-30,Caesar Salad,582.76
+Curry House,2026-09-18,Chicken Biryani,755.59
+Curry House,2026-09-13,Caesar Salad,444.45
+Vegan Bites,2026-08-14,Chocolate Cake,959.81
+Steak Out,2026-09-09,California Roll,185.91
+Pizza Paradise,2026-08-30,Pad Thai,1069.44
+Pizza Paradise,2026-08-17,California Roll,976.01
+Healthy Greens,2026-07-21,Paneer Butter Masala,511.55
+Noodle Corner,2026-09-16,Margherita Pizza,1004.24
+Burger Hub,2026-09-18,Caesar Salad,622.32
+Taco Fiesta,2026-08-12,Tacos,398.17
+Grill Master,2026-07-13,Chicken Biryani,601.13
+Taco Fiesta,2026-09-11,Pad Thai,415.74
+Vegan Bites,2026-07-17,Chocolate Cake,1003.88
+Burger Hub,2026-07-21,Caesar Salad,203.89
+Bake & Cake,2026-07-09,Paneer Butter Masala,911.11
+Midnight Munchies,2026-07-24,Caesar Salad,929.14
+Vegan Bites,2026-08-19,California Roll,758.86
+Wok This Way,2026-06-29,California Roll,1054.25
+Dim Sum Delight,2026-06-25,Mutton Kebab,926.23
+The Kebab Shop,2026-09-15,Paneer Butter Masala,839.24
+Breakfast Club,2026-06-25,Pad Thai,737.76
+Sweet Cravings,2026-08-04,Paneer Butter Masala,1039.64
+Wok This Way,2026-08-03,Caesar Salad,961.7
+Steak Out,2026-08-11,Chicken Biryani,869.86
+Bake & Cake,2026-08-12,Chocolate Cake,976.17
+Midnight Munchies,2026-08-26,Mutton Kebab,996.91
+Sweet Cravings,2026-06-29,Caesar Salad,288.84
+Pizza Paradise,2026-08-10,Chicken Biryani,1177.59
+Midnight Munchies,2026-06-30,Margherita Pizza,938.38
+Dim Sum Delight,2026-06-26,Mutton Kebab,875.04
+Pasta Express,2026-08-02,Margherita Pizza,819.24
+Spice Village,2026-08-19,Pad Thai,276.71
+Curry House,2026-09-16,Margherita Pizza,704.88
+Biryani Central,2026-09-14,Margherita Pizza,616.12
+Bake & Cake,2026-09-18,Chicken Biryani,966.62
+Dim Sum Delight,2026-06-26,Pad Thai,870.76
+Wok This Way,2026-08-13,Pad Thai,1056.35
+Spice Village,2026-08-19,Mutton Kebab,651.7
+Curry House,2026-07-06,Cheeseburger,801.31
+Noodle Corner,2026-09-06,Chocolate Cake,206.73
+Spice Village,2026-08-12,Caesar Salad,1106.1
+Burger Hub,2026-07-14,Chocolate Cake,1180.89
+Grill Master,2026-08-17,Margherita Pizza,782.11
+Burger Hub,2026-08-12,Mutton Kebab,1084.12
+Vegan Bites,2026-09-09,Chocolate Cake,496.92
+Breakfast Club,2026-09-04,Tacos,822.99
+Sushi Rollers,2026-08-12,California Roll,1158.55
+Sushi Rollers,2026-08-03,Cheeseburger,1158.52
+Biryani Central,2026-09-09,Cheeseburger,557.61
+The Kebab Shop,2026-09-15,California Roll,152.34
+Midnight Munchies,2026-08-25,Mutton Kebab,385.42
+Healthy Greens,2026-07-11,Margherita Pizza,617.46
+Curry House,2026-07-03,Tacos,783.61
+Dim Sum Delight,2026-07-24,Pad Thai,1027.72
+Curry House,2026-07-25,Chicken Biryani,723.36
+Taco Fiesta,2026-09-15,California Roll,358.74
+Burger Hub,2026-08-13,Cheeseburger,749.84
+Healthy Greens,2026-07-24,California Roll,566.76
+Taco Fiesta,2026-09-01,Cheeseburger,824.76
+Biryani Central,2026-07-17,Mutton Kebab,1170.49
+Bake & Cake,2026-08-24,Margherita Pizza,1058.32
+Noodle Corner,2026-06-26,Cheeseburger,996.8
+Dim Sum Delight,2026-07-04,Chocolate Cake,1042.05
+Noodle Corner,2026-08-23,Chicken Biryani,579.2
+Steak Out,2026-08-18,Chicken Biryani,780.59
+Steak Out,2026-07-27,Cheeseburger,787.96
+Spice Village,2026-08-30,California Roll,1081.92
+Noodle Corner,2026-08-28,Margherita Pizza,769.14
+Healthy Greens,2026-06-21,California Roll,260.73
+Vegan Bites,2026-08-16,California Roll,860.72
+Grill Master,2026-08-27,California Roll,901.57
+Bake & Cake,2026-06-28,Cheeseburger,990.43
+Dim Sum Delight,2026-07-28,Caesar Salad,287.98
+Healthy Greens,2026-07-08,Paneer Butter Masala,1040.18
+Sweet Cravings,2026-09-15,Tacos,932.21
+Spice Village,2026-07-08,Mutton Kebab,422.12
+Vegan Bites,2026-08-23,Paneer Butter Masala,207.93
+Breakfast Club,2026-08-13,Mutton Kebab,466.88
+Curry House,2026-08-29,Tacos,882.83
+Midnight Munchies,2026-07-30,Cheeseburger,1030.86
+Biryani Central,2026-08-21,Cheeseburger,233.13
+Healthy Greens,2026-07-06,Chicken Biryani,313.56
+The Kebab Shop,2026-06-30,Caesar Salad,811.54
+Dim Sum Delight,2026-07-15,Cheeseburger,387.91
+Pizza Paradise,2026-08-20,Tacos,718.14
+Vegan Bites,2026-07-17,Mutton Kebab,1009.88
+Wok This Way,2026-08-16,Mutton Kebab,801.21
+Midnight Munchies,2026-09-16,Mutton Kebab,304.92
+Midnight Munchies,2026-07-07,California Roll,217.16
+Steak Out,2026-06-28,Pad Thai,685.47
+Noodle Corner,2026-08-08,Paneer Butter Masala,949.38
+Wok This Way,2026-09-09,Chicken Biryani,508.23
+Wok This Way,2026-06-23,Tacos,726.57
+Bake & Cake,2026-08-12,Margherita Pizza,441.71
+Sweet Cravings,2026-07-30,Pad Thai,572.94
+Burger Hub,2026-08-09,Chicken Biryani,624.47
+Spice Village,2026-06-20,California Roll,206.57
+Dim Sum Delight,2026-08-07,Mutton Kebab,894.87
+Burger Hub,2026-07-16,Chocolate Cake,418.65
+Wok This Way,2026-08-16,Chocolate Cake,768.5
+Grill Master,2026-07-02,Pad Thai,804.91
+Midnight Munchies,2026-06-25,Caesar Salad,686.3
+Biryani Central,2026-08-09,Cheeseburger,927.94
+Wok This Way,2026-08-11,Paneer Butter Masala,874.65
+Pasta Express,2026-08-23,California Roll,1014.5
+Bake & Cake,2026-08-09,Caesar Salad,213.47
+Dim Sum Delight,2026-08-17,Chicken Biryani,754.99
+Curry House,2026-09-06,Cheeseburger,1068.79
+Bake & Cake,2026-07-08,Chocolate Cake,417.55
+Vegan Bites,2026-07-25,Cheeseburger,292.07
+Pasta Express,2026-07-31,Chicken Biryani,884.72
+Burger Hub,2026-08-31,Cheeseburger,781.0
+Pizza Paradise,2026-07-02,Mutton Kebab,1132.47
+Healthy Greens,2026-09-03,Mutton Kebab,705.39
+Sweet Cravings,2026-08-02,Cheeseburger,574.02
+The Kebab Shop,2026-08-23,Pad Thai,904.26
+Biryani Central,2026-08-17,Chicken Biryani,1112.42
+Curry House,2026-08-31,Chocolate Cake,835.39
+Breakfast Club,2026-07-18,Chocolate Cake,1101.73
+Breakfast Club,2026-07-23,Paneer Butter Masala,244.87
+Dim Sum Delight,2026-08-09,Tacos,908.47
+Pizza Paradise,2026-09-10,Pad Thai,599.26
+Burger Hub,2026-07-10,Margherita Pizza,1063.79
+Pizza Paradise,2026-08-22,California Roll,225.83
+Steak Out,2026-08-22,Chocolate Cake,1003.22
+Sweet Cravings,2026-06-29,Pad Thai,611.86
+Wok This Way,2026-08-16,Paneer Butter Masala,181.88
+Vegan Bites,2026-08-23,Pad Thai,1036.53
+Sweet Cravings,2026-08-11,Cheeseburger,900.36
+Steak Out,2026-08-01,California Roll,856.34
+Pizza Paradise,2026-09-10,Pad Thai,1042.86
+Dim Sum Delight,2026-07-01,Margherita Pizza,212.44
+Noodle Corner,2026-08-14,Chicken Biryani,939.25
+Vegan Bites,2026-07-05,Pad Thai,868.2
+Wok This Way,2026-07-02,Chocolate Cake,731.31
+Curry House,2026-09-02,California Roll,274.11
+Midnight Munchies,2026-08-01,Caesar Salad,842.24
+Noodle Corner,2026-09-07,Tacos,338.75
+Noodle Corner,2026-07-15,California Roll,1188.41
+Sushi Rollers,2026-08-25,Paneer Butter Masala,304.64
+Breakfast Club,2026-09-06,Pad Thai,974.82
+Pasta Express,2026-07-22,Mutton Kebab,157.9
+Sweet Cravings,2026-07-30,Mutton Kebab,695.65
+Biryani Central,2026-07-12,Margherita Pizza,599.35
+Midnight Munchies,2026-09-11,Tacos,908.8
+Grill Master,2026-09-15,California Roll,570.37
+Vegan Bites,2026-07-21,Caesar Salad,1118.24
+Bake & Cake,2026-09-09,Mutton Kebab,323.52
+Spice Village,2026-08-11,Cheeseburger,401.85
+Breakfast Club,2026-08-18,Margherita Pizza,846.11
+Wok This Way,2026-09-03,Margherita Pizza,1001.91
+Healthy Greens,2026-09-11,Caesar Salad,721.27
+Taco Fiesta,2026-08-14,Chicken Biryani,194.91
+Breakfast Club,2026-06-27,Chocolate Cake,846.77
+Burger Hub,2026-07-04,Paneer Butter Masala,522.28
+Taco Fiesta,2026-07-13,Margherita Pizza,303.48
+Dim Sum Delight,2026-09-02,Chicken Biryani,501.15
+Vegan Bites,2026-07-13,Mutton Kebab,763.23
+Grill Master,2026-09-09,Tacos,955.84
+Taco Fiesta,2026-08-19,Margherita Pizza,235.1
+Grill Master,2026-09-04,Chocolate Cake,821.03
+Pasta Express,2026-08-13,Margherita Pizza,794.32
+Sweet Cravings,2026-08-16,Tacos,438.29
+Breakfast Club,2026-08-22,Paneer Butter Masala,1160.01
+Sweet Cravings,2026-07-14,Pad Thai,727.52
+Sweet Cravings,2026-08-25,Paneer Butter Masala,951.92
+Grill Master,2026-08-28,Chicken Biryani,425.64
+Grill Master,2026-09-10,California Roll,908.27
+Healthy Greens,2026-07-21,Tacos,1158.39
+The Kebab Shop,2026-08-02,California Roll,831.18
+The Kebab Shop,2026-08-01,California Roll,843.92
+Pizza Paradise,2026-08-10,Chicken Biryani,1036.01
+Burger Hub,2026-07-22,Mutton Kebab,898.73
+Dim Sum Delight,2026-08-17,Margherita Pizza,589.28
+Dim Sum Delight,2026-08-12,Paneer Butter Masala,967.64
+Sweet Cravings,2026-06-25,Paneer Butter Masala,279.67
+Taco Fiesta,2026-09-13,Chicken Biryani,778.44
+Pizza Paradise,2026-09-15,Chocolate Cake,220.39
+Bake & Cake,2026-07-10,California Roll,477.91
+Sweet Cravings,2026-09-07,Paneer Butter Masala,966.25
+Curry House,2026-07-02,Chocolate Cake,438.92
+Sweet Cravings,2026-06-30,Pad Thai,751.14
+Taco Fiesta,2026-08-05,Margherita Pizza,893.64
+Grill Master,2026-08-05,Caesar Salad,596.07
+Sweet Cravings,2026-09-08,California Roll,480.87
+Midnight Munchies,2026-07-21,Chocolate Cake,851.76
+Breakfast Club,2026-09-02,Margherita Pizza,808.6
+Wok This Way,2026-08-16,Mutton Kebab,801.21
+The Kebab Shop,2026-08-12,Chicken Biryani,558.91
+Curry House,2026-07-05,Pad Thai,988.33
+Curry House,2026-07-02,California Roll,437.86
+Healthy Greens,2026-07-20,Margherita Pizza,838.13
+Healthy Greens,2026-06-21,Chocolate Cake,438.86
+Sweet Cravings,2026-08-15,Paneer Butter Masala,1011.06
+Sweet Cravings,2026-08-14,Mutton Kebab,626.19
+Curry House,2026-08-10,Cheeseburger,415.05
+Burger Hub,2026-07-08,Caesar Salad,980.47
+Sweet Cravings,2026-09-17,Chocolate Cake,990.82
+Curry House,2026-09-02,Pad Thai,746.2
+Breakfast Club,2026-06-28,Tacos,1050.72
+Taco Fiesta,2026-08-20,Mutton Kebab,210.82
+Grill Master,2026-09-15,Tacos,218.34
+Breakfast Club,2026-07-06,Chocolate Cake,539.58
+Steak Out,2026-09-04,Pad Thai,909.34
+Healthy Greens,2026-07-10,Paneer Butter Masala,367.41
+Burger Hub,2026-09-03,Pad Thai,428.23
+Bake & Cake,2026-08-22,Mutton Kebab,1036.88
+Pizza Paradise,2026-08-31,Paneer Butter Masala,1112.02
+Steak Out,2026-08-11,Pad Thai,287.39
+Bake & Cake,2026-06-27,Tacos,416.81
+Wok This Way,2026-07-30,Caesar Salad,280.15
+Pasta Express,2026-07-31,Caesar Salad,669.4
+Biryani Central,2026-08-08,Mutton Kebab,1153.74
+Wok This Way,2026-07-27,Tacos,316.74
+Wok This Way,2026-07-21,Tacos,502.01
+Taco Fiesta,2026-09-13,Chicken Biryani,778.44
+Sweet Cravings,2026-07-22,Margherita Pizza,753.5
+Steak Out,2026-07-19,Paneer Butter Masala,697.08
+Curry House,2026-08-03,Pad Thai,535.92
+Midnight Munchies,2026-08-05,Tacos,638.17
+Pasta Express,2026-08-14,Cheeseburger,1135.47
+Midnight Munchies,2026-06-24,Mutton Kebab,246.8
+Wok This Way,2026-07-25,Chocolate Cake,1171.35
+Sweet Cravings,2026-06-26,Caesar Salad,1028.16
+Steak Out,2026-09-05,Tacos,720.19
+Taco Fiesta,2026-08-26,Caesar Salad,723.82
+Pizza Paradise,2026-09-03,Mutton Kebab,720.11
+Vegan Bites,2026-09-08,Pad Thai,476.7
+Noodle Corner,2026-08-10,Paneer Butter Masala,452.45
+The Kebab Shop,2026-08-06,Caesar Salad,392.68
+Sweet Cravings,2026-08-07,Pad Thai,1164.76
+Curry House,2026-07-28,Cheeseburger,1057.94
+Spice Village,2026-07-01,Tacos,399.99
+Noodle Corner,2026-06-25,Tacos,241.74
+Midnight Munchies,2026-08-28,Paneer Butter Masala,799.68
+Steak Out,2026-07-17,Caesar Salad,1041.69
+The Kebab Shop,2026-09-17,Margherita Pizza,1042.4
+Pasta Express,2026-08-03,Margherita Pizza,1195.57
+Grill Master,2026-09-03,Cheeseburger,819.06
+Steak Out,2026-06-30,California Roll,832.11
+Curry House,2026-07-03,Pad Thai,721.56
+Steak Out,2026-06-25,Tacos,919.88
+Sushi Rollers,2026-08-12,Cheeseburger,619.16
+Breakfast Club,2026-07-18,Chicken Biryani,411.32
+Biryani Central,2026-08-09,Tacos,1082.04
+Pizza Paradise,2026-08-01,Chocolate Cake,159.94
+Taco Fiesta,2026-07-29,California Roll,266.53
+Curry House,2026-08-03,Mutton Kebab,899.16
+Breakfast Club,2026-08-15,Tacos,957.28
+Taco Fiesta,2026-07-14,California Roll,609.39
+Midnight Munchies,2026-08-06,Pad Thai,788.57
+Pasta Express,2026-07-31,Caesar Salad,669.4
+Noodle Corner,2026-06-23,Cheeseburger,303.78
+Sushi Rollers,2026-07-04,Mutton Kebab,1105.46
+Spice Village,2026-06-24,Tacos,455.64
+Curry House,2026-09-12,Tacos,488.03
+Healthy Greens,2026-08-28,Paneer Butter Masala,463.94
+Pizza Paradise,2026-08-19,Caesar Salad,235.39
+Biryani Central,2026-07-10,Chicken Biryani,609.14
+Pasta Express,2026-06-21,Caesar Salad,181.19
+Dim Sum Delight,2026-09-09,Paneer Butter Masala,196.95
+Taco Fiesta,2026-08-20,Paneer Butter Masala,1028.61
+Biryani Central,2026-08-09,Cheeseburger,947.89
+The Kebab Shop,2026-09-17,Pad Thai,376.6
+Noodle Corner,2026-07-08,Pad Thai,986.58
+Wok This Way,2026-08-22,Paneer Butter Masala,461.78
+Steak Out,2026-08-19,California Roll,344.98
+Vegan Bites,2026-07-25,Chocolate Cake,333.26
+Wok This Way,2026-09-04,Paneer Butter Masala,217.74
+Taco Fiesta,2026-08-18,Tacos,719.44
+Dim Sum Delight,2026-07-15,Margherita Pizza,295.37
+Sweet Cravings,2026-07-26,Margherita Pizza,359.08
+Vegan Bites,2026-09-08,Margherita Pizza,279.5
+Breakfast Club,2026-07-19,Paneer Butter Masala,731.97
+Pasta Express,2026-07-18,California Roll,878.52
+Breakfast Club,2026-07-17,Paneer Butter Masala,929.27
+Wok This Way,2026-08-28,California Roll,351.74
+Sweet Cravings,2026-07-11,Paneer Butter Masala,614.24
+Dim Sum Delight,2026-07-22,Chocolate Cake,1113.8
+Biryani Central,2026-07-28,Paneer Butter Masala,850.55
+Wok This Way,2026-07-03,Pad Thai,372.75
+Grill Master,2026-06-26,Cheeseburger,457.33
+Bake & Cake,2026-06-30,Tacos,885.31
+Pasta Express,2026-08-27,Chicken Biryani,557.69
+Burger Hub,2026-08-27,Cheeseburger,903.34
+Curry House,2026-08-07,Pad Thai,354.81
+Biryani Central,2026-06-22,California Roll,621.31
+Noodle Corner,2026-09-07,Paneer Butter Masala,214.71
+Pasta Express,2026-09-01,Chicken Biryani,502.21
+Burger Hub,2026-08-06,Caesar Salad,451.31
+Sushi Rollers,2026-08-02,Paneer Butter Masala,1031.8
+Dim Sum Delight,2026-07-15,Chocolate Cake,689.82
+Midnight Munchies,2026-08-29,Chicken Biryani,1017.23
+Vegan Bites,2026-07-28,California Roll,556.15
+Vegan Bites,2026-08-28,Paneer Butter Masala,499.23
+Bake & Cake,2026-07-04,Caesar Salad,716.18
+Curry House,2026-09-08,Pad Thai,779.9
+Burger Hub,2026-08-26,Mutton Kebab,1008.12
+Dim Sum Delight,2026-08-22,California Roll,331.53
+Pizza Paradise,2026-09-06,Tacos,393.44
+Spice Village,2026-08-11,Cheeseburger,428.72
+Breakfast Club,2026-07-14,Pad Thai,998.62
+Pizza Paradise,2026-08-08,Tacos,617.23
+Vegan Bites,2026-07-09,Chicken Biryani,963.46
+Wok This Way,2026-09-15,Tacos,1161.74
+Taco Fiesta,2026-06-28,Caesar Salad,804.75
+Biryani Central,2026-06-22,Pad Thai,595.6
+Pasta Express,2026-07-22,Chocolate Cake,888.27
+Spice Village,2026-08-03,Chicken Biryani,611.51
+Pizza Paradise,2026-06-22,Chocolate Cake,340.74
+Breakfast Club,2026-06-20,California Roll,1156.85
+Steak Out,2026-09-18,Tacos,930.09
+Steak Out,2026-08-09,Paneer Butter Masala,1027.62
+Grill Master,2026-07-13,Chicken Biryani,601.13
+Dim Sum Delight,2026-06-26,Caesar Salad,212.39
+Biryani Central,2026-08-11,Caesar Salad,919.6
+Burger Hub,2026-06-22,Cheeseburger,884.37
+Taco Fiesta,2026-07-25,Pad Thai,1083.5
+Breakfast Club,2026-08-01,Paneer Butter Masala,715.4
+Dim Sum Delight,2026-06-22,Mutton Kebab,456.09
+The Kebab Shop,2026-09-17,Mutton Kebab,796.87
+Wok This Way,2026-09-06,Pad Thai,1033.56
+Sweet Cravings,2026-08-07,Pad Thai,1164.76
+Curry House,2026-08-07,California Roll,797.37
+Dim Sum Delight,2026-07-17,Chicken Biryani,1093.97
+Steak Out,2026-08-17,Paneer Butter Masala,1157.05
+Wok This Way,2026-08-02,Chicken Biryani,1198.84
+Taco Fiesta,2026-09-16,Chicken Biryani,487.55
+Dim Sum Delight,2026-08-22,Chocolate Cake,600.72
+Breakfast Club,2026-08-05,California Roll,1187.84
+Midnight Munchies,2026-07-28,Caesar Salad,504.99
+Pasta Express,2026-06-22,Cheeseburger,641.99
+Bake & Cake,2026-08-04,Chicken Biryani,377.24
+Dim Sum Delight,2026-08-11,Pad Thai,963.71
+Grill Master,2026-07-20,Caesar Salad,849.03
+Pizza Paradise,2026-09-17,Cheeseburger,323.86
+Noodle Corner,2026-08-08,Paneer Butter Masala,476.04
+Midnight Munchies,2026-08-25,Cheeseburger,908.95
+Sushi Rollers,2026-08-10,Paneer Butter Masala,711.5
+Wok This Way,2026-07-06,Caesar Salad,501.92
+Biryani Central,2026-09-14,Chicken Biryani,575.45
+Steak Out,2026-07-13,Chicken Biryani,347.76
+Pasta Express,2026-07-30,Chicken Biryani,992.02
+Breakfast Club,2026-06-25,Tacos,351.91
+Midnight Munchies,2026-08-01,Pad Thai,561.22
+Breakfast Club,2026-08-26,Paneer Butter Masala,178.06
+Dim Sum Delight,2026-09-18,Pad Thai,1059.3
+Bake & Cake,2026-07-19,Mutton Kebab,1154.88
+Grill Master,2026-09-07,Pad Thai,856.39
+Pasta Express,2026-07-30,Chicken Biryani,992.02
+The Kebab Shop,2026-06-23,Chocolate Cake,433.25
+Curry House,2026-06-27,Pad Thai,734.94
+Spice Village,2026-08-17,Chocolate Cake,548.84
+Taco Fiesta,2026-08-11,Chocolate Cake,514.7
+Sushi Rollers,2026-07-05,Pad Thai,840.37
+Healthy Greens,2026-08-09,Margherita Pizza,630.64
+Pizza Paradise,2026-07-20,Tacos,665.09
+Sweet Cravings,2026-08-20,Tacos,859.87
+Dim Sum Delight,2026-08-21,Pad Thai,721.31
+Biryani Central,2026-08-14,Pad Thai,960.16
+Noodle Corner,2026-08-30,Chocolate Cake,663.79
+Midnight Munchies,2026-07-27,Chicken Biryani,1196.85
+Taco Fiesta,2026-06-22,Margherita Pizza,429.89
+Taco Fiesta,2026-09-04,Paneer Butter Masala,635.96
+Biryani Central,2026-06-28,Chicken Biryani,865.85
+Grill Master,2026-06-20,Mutton Kebab,202.0
+Midnight Munchies,2026-07-17,Mutton Kebab,588.18
+Noodle Corner,2026-07-15,Mutton Kebab,284.85
+Wok This Way,2026-08-02,California Roll,858.49
+Midnight Munchies,2026-07-02,California Roll,1190.56
+Noodle Corner,2026-07-07,Caesar Salad,769.0
+Vegan Bites,2026-07-07,Mutton Kebab,330.38
+Biryani Central,2026-08-27,Chicken Biryani,904.94
+Taco Fiesta,2026-06-29,Paneer Butter Masala,1072.58
+Bake & Cake,2026-09-18,Caesar Salad,633.93
+Sweet Cravings,2026-08-27,Chocolate Cake,499.59
+Biryani Central,2026-09-11,Cheeseburger,570.98
+Dim Sum Delight,2026-08-27,California Roll,1187.85
+Burger Hub,2026-09-10,Margherita Pizza,485.77
+Healthy Greens,2026-09-02,Tacos,936.55
+Taco Fiesta,2026-06-26,Chocolate Cake,537.55
+Taco Fiesta,2026-08-27,Margherita Pizza,923.93
+Pasta Express,2026-08-20,Cheeseburger,871.8
+Pizza Paradise,2026-07-30,Chocolate Cake,437.44
+Grill Master,2026-08-22,Caesar Salad,243.19
+Taco Fiesta,2026-09-18,Cheeseburger,889.23
+Grill Master,2026-08-31,Paneer Butter Masala,267.92
+Pasta Express,2026-09-13,Chocolate Cake,320.71
+Breakfast Club,2026-07-31,Margherita Pizza,994.24
+Pasta Express,2026-07-25,Margherita Pizza,1060.3
+Wok This Way,2026-08-09,Paneer Butter Masala,765.91
+Bake & Cake,2026-08-09,Mutton Kebab,412.27
+Pizza Paradise,2026-08-26,Mutton Kebab,472.62
+Dim Sum Delight,2026-08-30,Chocolate Cake,1085.11
+Sweet Cravings,2026-07-01,Mutton Kebab,450.22
+Bake & Cake,2026-08-02,Paneer Butter Masala,200.44
+Pizza Paradise,2026-06-22,Chicken Biryani,1021.13
+Pizza Paradise,2026-07-24,Cheeseburger,809.04
+Vegan Bites,2026-08-31,Cheeseburger,239.08
+Noodle Corner,2026-06-21,Pad Thai,480.27
+Sushi Rollers,2026-08-09,Chicken Biryani,284.62
+Sushi Rollers,2026-09-14,Cheeseburger,1054.78
+Healthy Greens,2026-07-22,Paneer Butter Masala,313.16
+Spice Village,2026-08-28,Chocolate Cake,241.63
+Taco Fiesta,2026-07-10,Mutton Kebab,920.94
+Curry House,2026-08-25,Tacos,984.04
+Biryani Central,2026-08-20,Margherita Pizza,177.36
+Wok This Way,2026-08-01,California Roll,763.74
+Dim Sum Delight,2026-09-18,Chocolate Cake,425.43
+Steak Out,2026-08-01,Tacos,340.02
+Wok This Way,2026-08-27,Mutton Kebab,671.75
+Breakfast Club,2026-09-01,Chocolate Cake,1062.19
+Vegan Bites,2026-08-21,Caesar Salad,883.78
+Pasta Express,2026-07-26,Cheeseburger,936.2
+Pizza Paradise,2026-06-22,Pad Thai,998.55
+Biryani Central,2026-09-01,Tacos,501.76
+Breakfast Club,2026-08-08,Chicken Biryani,364.43
+Steak Out,2026-08-19,Tacos,482.36
+The Kebab Shop,2026-08-20,Cheeseburger,937.46
+Noodle Corner,2026-07-09,Cheeseburger,1057.25
+Pizza Paradise,2026-07-25,Tacos,1070.67
+The Kebab Shop,2026-09-06,Paneer Butter Masala,695.45
+Healthy Greens,2026-09-03,Caesar Salad,417.6
+Burger Hub,2026-07-31,California Roll,802.43
+Curry House,2026-08-20,Paneer Butter Masala,799.27
+Bake & Cake,2026-08-13,Pad Thai,1102.76
+Bake & Cake,2026-08-03,Caesar Salad,808.13
+Bake & Cake,2026-08-09,Caesar Salad,213.47
+Biryani Central,2026-08-27,Paneer Butter Masala,642.03
+Pasta Express,2026-07-13,Cheeseburger,405.1
+Biryani Central,2026-09-17,Margherita Pizza,552.63
+The Kebab Shop,2026-09-14,Pad Thai,236.65
+Burger Hub,2026-07-19,Paneer Butter Masala,242.11
+Curry House,2026-09-08,Chocolate Cake,167.34
+Burger Hub,2026-08-17,Mutton Kebab,686.14
+Pasta Express,2026-09-16,Mutton Kebab,1044.27
+Biryani Central,2026-07-01,Margherita Pizza,1138.61
+Taco Fiesta,2026-07-26,Margherita Pizza,733.48
+Biryani Central,2026-07-02,Mutton Kebab,384.03
+Pizza Paradise,2026-07-22,Margherita Pizza,676.88
+Grill Master,2026-07-10,Cheeseburger,1180.9
+Pizza Paradise,2026-07-09,California Roll,433.55
+Noodle Corner,2026-07-24,Chocolate Cake,925.5
+The Kebab Shop,2026-09-05,Chicken Biryani,201.91
+Biryani Central,2026-07-22,Cheeseburger,721.14
+Biryani Central,2026-09-13,Chocolate Cake,434.27
+The Kebab Shop,2026-09-02,Tacos,726.13
+Wok This Way,2026-09-05,Margherita Pizza,606.08
+Taco Fiesta,2026-09-15,Cheeseburger,662.18
+Pizza Paradise,2026-06-29,Cheeseburger,746.67
+The Kebab Shop,2026-08-20,Cheeseburger,937.46
+Sweet Cravings,2026-08-17,Paneer Butter Masala,1151.3
+Midnight Munchies,2026-07-18,Cheeseburger,423.86
+Biryani Central,2026-07-23,Margherita Pizza,286.8
+Burger Hub,2026-08-12,Margherita Pizza,1113.31
+Breakfast Club,2026-09-13,Caesar Salad,1058.92
+Healthy Greens,2026-07-14,Chicken Biryani,752.1
+Burger Hub,2026-06-20,Chicken Biryani,1175.37
+Spice Village,2026-08-25,Caesar Salad,905.78
+Wok This Way,2026-06-20,Caesar Salad,315.26
+Taco Fiesta,2026-08-20,Caesar Salad,982.32
+Biryani Central,2026-08-20,Margherita Pizza,177.36
+The Kebab Shop,2026-07-29,Tacos,712.81
+Noodle Corner,2026-08-01,California Roll,912.39
+Biryani Central,2026-08-17,Mutton Kebab,1076.67
+Burger Hub,2026-09-08,Cheeseburger,772.75
+Spice Village,2026-09-02,Chocolate Cake,979.47
+Curry House,2026-08-27,Caesar Salad,668.7
+Sweet Cravings,2026-07-27,Tacos,1007.9
+Breakfast Club,2026-08-13,Mutton Kebab,466.88
+Burger Hub,2026-08-19,California Roll,384.2
+Sweet Cravings,2026-07-20,Cheeseburger,1105.78
+Pizza Paradise,2026-07-20,Chicken Biryani,926.2
+Breakfast Club,2026-08-14,California Roll,257.04
+Taco Fiesta,2026-08-24,Chicken Biryani,933.46
+Noodle Corner,2026-09-17,Pad Thai,887.44
+Taco Fiesta,2026-07-19,Caesar Salad,327.99
+Midnight Munchies,2026-07-08,Chicken Biryani,367.12
+Steak Out,2026-09-08,Caesar Salad,160.46
+Healthy Greens,2026-08-25,Cheeseburger,1091.97
+Curry House,2026-08-26,Paneer Butter Masala,528.85
+Pasta Express,2026-07-04,Tacos,545.23
+Steak Out,2026-07-19,Cheeseburger,1171.31
+Midnight Munchies,2026-07-04,Margherita Pizza,576.45
+Noodle Corner,2026-09-15,Chocolate Cake,1106.07
+Taco Fiesta,2026-08-06,California Roll,627.57
+Pizza Paradise,2026-09-10,Caesar Salad,648.65
+Vegan Bites,2026-09-18,Chicken Biryani,573.92
+Biryani Central,2026-07-27,Paneer Butter Masala,341.23
+Dim Sum Delight,2026-07-02,Pad Thai,457.9
+Grill Master,2026-09-11,Mutton Kebab,716.48
+Biryani Central,2026-09-02,Chocolate Cake,229.12
+Burger Hub,2026-07-25,Pad Thai,676.17
+Spice Village,2026-07-10,Caesar Salad,514.61
+Steak Out,2026-09-12,Paneer Butter Masala,790.83
+Wok This Way,2026-06-28,Chicken Biryani,1198.91
+Breakfast Club,2026-06-27,Pad Thai,621.58
+Sushi Rollers,2026-08-17,Tacos,362.26
+Pizza Paradise,2026-09-15,Chicken Biryani,908.04
+Wok This Way,2026-06-30,California Roll,212.2
+Grill Master,2026-07-21,Chocolate Cake,858.85
+Burger Hub,2026-09-05,Tacos,295.9
+Burger Hub,2026-07-03,Cheeseburger,404.34
+Dim Sum Delight,2026-08-26,California Roll,377.75
+Sushi Rollers,2026-07-03,Paneer Butter Masala,1067.12
+Grill Master,2026-07-26,California Roll,1020.19
+The Kebab Shop,2026-08-20,Mutton Kebab,1188.72
+Taco Fiesta,2026-07-27,Margherita Pizza,1182.32
+Wok This Way,2026-08-04,Margherita Pizza,1159.85
+Bake & Cake,2026-06-30,Pad Thai,1035.02
+Spice Village,2026-07-25,California Roll,160.92
+Bake & Cake,2026-09-15,Chicken Biryani,792.67
+Taco Fiesta,2026-08-26,Chicken Biryani,888.83
+Midnight Munchies,2026-07-17,Margherita Pizza,333.81
+Healthy Greens,2026-08-14,California Roll,664.58
+Sushi Rollers,2026-08-13,Caesar Salad,799.14
+Grill Master,2026-08-13,Tacos,300.16
+Taco Fiesta,2026-07-10,Mutton Kebab,920.94
+Steak Out,2026-09-17,Caesar Salad,1098.17
+Wok This Way,2026-08-27,Chicken Biryani,252.88
+The Kebab Shop,2026-07-12,Cheeseburger,1193.24
+Sweet Cravings,2026-07-07,Margherita Pizza,787.67
+Bake & Cake,2026-07-24,Chicken Biryani,930.66
+Noodle Corner,2026-09-15,Caesar Salad,700.36
+Sushi Rollers,2026-07-18,California Roll,1185.68
+Vegan Bites,2026-09-17,Mutton Kebab,1074.76
+Vegan Bites,2026-07-28,California Roll,556.15
+Biryani Central,2026-09-16,Chocolate Cake,1149.26
+Dim Sum Delight,2026-08-22,Cheeseburger,1127.4
+Pasta Express,2026-09-09,Caesar Salad,1095.29
+Healthy Greens,2026-07-11,Chicken Biryani,316.35
+Biryani Central,2026-06-21,Pad Thai,693.12
+Pizza Paradise,2026-07-23,Mutton Kebab,1017.97
+Sushi Rollers,2026-07-29,Tacos,746.36
+Pasta Express,2026-09-11,Margherita Pizza,633.9
+Vegan Bites,2026-08-27,Chicken Biryani,789.91
+The Kebab Shop,2026-08-11,Tacos,998.0
+Curry House,2026-08-11,Chocolate Cake,273.17
+Biryani Central,2026-09-13,Chocolate Cake,434.27
+Sweet Cravings,2026-07-17,Cheeseburger,549.54
+Curry House,2026-07-24,Mutton Kebab,1076.05
+Grill Master,2026-08-05,Chocolate Cake,726.66
+Grill Master,2026-09-11,Mutton Kebab,716.48
+Grill Master,2026-08-25,Margherita Pizza,436.75
+Dim Sum Delight,2026-08-14,Caesar Salad,304.27
+Vegan Bites,2026-09-15,Margherita Pizza,816.87
+Breakfast Club,2026-07-02,Margherita Pizza,1062.52
+Pasta Express,2026-07-05,California Roll,435.95
+Sweet Cravings,2026-08-18,Paneer Butter Masala,166.33
+Spice Village,2026-08-05,California Roll,594.85
+Pasta Express,2026-08-17,Margherita Pizza,934.47
+Burger Hub,2026-09-02,Tacos,817.08
+The Kebab Shop,2026-07-18,Caesar Salad,990.09
+Vegan Bites,2026-09-14,Margherita Pizza,1186.41
+Burger Hub,2026-08-20,Cheeseburger,382.31
+Biryani Central,2026-08-17,Chicken Biryani,1112.42
+Sweet Cravings,2026-08-07,Mutton Kebab,1161.04
+Vegan Bites,2026-07-12,Caesar Salad,882.28
+Wok This Way,2026-09-06,Tacos,979.12
+The Kebab Shop,2026-08-14,Cheeseburger,298.61
+Vegan Bites,2026-07-07,Tacos,973.13
+The Kebab Shop,2026-08-20,Chocolate Cake,909.03
+Bake & Cake,2026-07-11,Chicken Biryani,495.96
+The Kebab Shop,2026-08-24,Cheeseburger,688.62
+Spice Village,2026-07-10,Pad Thai,519.16
+Midnight Munchies,2026-08-04,Cheeseburger,449.64
+Pizza Paradise,2026-06-28,Chicken Biryani,189.26
+Curry House,2026-06-21,Paneer Butter Masala,558.68
+Breakfast Club,2026-08-21,Mutton Kebab,1047.79
+Pasta Express,2026-07-10,Chocolate Cake,928.09
+Biryani Central,2026-09-06,Cheeseburger,169.07
+Pasta Express,2026-08-01,Paneer Butter Masala,627.62
+Wok This Way,2026-08-02,Margherita Pizza,885.58
+Curry House,2026-06-21,California Roll,519.38
+Steak Out,2026-08-03,Tacos,780.55
+Pizza Paradise,2026-06-20,Mutton Kebab,593.71
+Sushi Rollers,2026-06-21,Pad Thai,234.51
+Sushi Rollers,2026-09-18,Tacos,963.53
+The Kebab Shop,2026-07-06,Mutton Kebab,986.72
+Biryani Central,2026-08-24,Tacos,875.37
+Dim Sum Delight,2026-07-25,Mutton Kebab,1049.78
+Noodle Corner,2026-08-25,Chocolate Cake,723.18
+Wok This Way,2026-08-12,Pad Thai,1061.21
+Biryani Central,2026-07-05,California Roll,962.75
+Midnight Munchies,2026-07-31,Margherita Pizza,559.21
+Spice Village,2026-07-17,Caesar Salad,239.76
+Healthy Greens,2026-09-04,Tacos,1028.66
+Vegan Bites,2026-08-17,Pad Thai,541.19
+Bake & Cake,2026-07-15,Chicken Biryani,472.6
+Sushi Rollers,2026-08-10,Paneer Butter Masala,711.5
+Dim Sum Delight,2026-07-25,Mutton Kebab,1049.78
+Vegan Bites,2026-08-14,Margherita Pizza,438.38
+Breakfast Club,2026-09-13,Caesar Salad,638.71
+Steak Out,2026-07-20,Pad Thai,393.03
+Spice Village,2026-09-17,Paneer Butter Masala,278.28
+Sweet Cravings,2026-08-20,Caesar Salad,451.68
+Sushi Rollers,2026-07-06,Pad Thai,685.84
+Taco Fiesta,2026-06-22,Margherita Pizza,785.54
+Steak Out,2026-09-04,Chicken Biryani,675.35
+The Kebab Shop,2026-07-16,Mutton Kebab,923.47
+Spice Village,2026-08-28,Paneer Butter Masala,395.75
+Midnight Munchies,2026-09-11,Paneer Butter Masala,391.09
+Dim Sum Delight,2026-08-30,Chocolate Cake,1085.11
+Spice Village,2026-09-08,Chocolate Cake,150.57
+Pizza Paradise,2026-06-24,Paneer Butter Masala,939.39
+Breakfast Club,2026-07-18,Paneer Butter Masala,975.99
+Steak Out,2026-09-17,Chocolate Cake,587.05
+Sushi Rollers,2026-08-15,Pad Thai,923.31
+Healthy Greens,2026-09-07,Chicken Biryani,166.63
+Dim Sum Delight,2026-07-11,Chicken Biryani,177.2
+Sushi Rollers,2026-08-15,Chocolate Cake,781.03
+Biryani Central,2026-09-01,Tacos,501.76
+Bake & Cake,2026-08-10,Pad Thai,1032.46
+Biryani Central,2026-07-24,Paneer Butter Masala,1128.71
+The Kebab Shop,2026-08-17,Paneer Butter Masala,345.19
+Noodle Corner,2026-07-31,Paneer Butter Masala,1101.25
+Burger Hub,2026-09-10,Pad Thai,432.83
+Curry House,2026-08-19,Tacos,686.28
+Spice Village,2026-09-08,Chicken Biryani,355.76
+Sushi Rollers,2026-08-14,Cheeseburger,342.93
+Sushi Rollers,2026-07-26,Tacos,580.25
+Breakfast Club,2026-07-08,Tacos,385.96
+Sweet Cravings,2026-08-12,California Roll,301.93
+Sushi Rollers,2026-09-05,Mutton Kebab,1071.84
+Steak Out,2026-09-02,Caesar Salad,796.54
+Biryani Central,2026-06-22,Pad Thai,595.6
+Pasta Express,2026-07-09,Margherita Pizza,706.77
+Midnight Munchies,2026-07-26,Chicken Biryani,481.03
+Burger Hub,2026-08-08,Chocolate Cake,1157.31
+Sweet Cravings,2026-07-09,Caesar Salad,597.74
+Sweet Cravings,2026-08-25,Margherita Pizza,930.86
+Steak Out,2026-07-30,Chicken Biryani,436.18
+Taco Fiesta,2026-08-22,Margherita Pizza,405.33
+Sushi Rollers,2026-07-23,Chocolate Cake,1042.89
+Taco Fiesta,2026-09-08,Margherita Pizza,728.14
+Bake & Cake,2026-07-12,Chicken Biryani,529.29
+Vegan Bites,2026-08-24,Caesar Salad,208.15
+Steak Out,2026-08-04,Paneer Butter Masala,694.2
+Bake & Cake,2026-08-22,Tacos,613.27
+Sushi Rollers,2026-07-26,Chicken Biryani,598.59
+Burger Hub,2026-08-24,Caesar Salad,700.75
+Grill Master,2026-06-25,Pad Thai,557.08
+Curry House,2026-06-27,Chicken Biryani,390.65
+Noodle Corner,2026-09-06,Chocolate Cake,206.73
+Noodle Corner,2026-08-24,Chicken Biryani,221.84
+Sweet Cravings,2026-09-09,Caesar Salad,318.89
+Midnight Munchies,2026-09-15,Chocolate Cake,1162.45
+Healthy Greens,2026-07-19,Cheeseburger,603.07
+Pizza Paradise,2026-08-17,Paneer Butter Masala,607.6
+Sushi Rollers,2026-07-15,Paneer Butter Masala,727.06
+Curry House,2026-07-21,Caesar Salad,937.53
+Wok This Way,2026-07-14,Cheeseburger,654.14
+Bake & Cake,2026-08-21,California Roll,1115.01
+Noodle Corner,2026-07-17,Chicken Biryani,1008.96
+Burger Hub,2026-08-02,Pad Thai,559.47
+Pizza Paradise,2026-07-22,Mutton Kebab,595.46
+Noodle Corner,2026-07-24,Chocolate Cake,925.5
+Sweet Cravings,2026-08-18,Margherita Pizza,346.72
+Midnight Munchies,2026-09-08,Tacos,1170.97
+Pizza Paradise,2026-07-27,California Roll,633.52
+Biryani Central,2026-07-27,Paneer Butter Masala,341.23
+Healthy Greens,2026-08-26,Chicken Biryani,985.9
+Pizza Paradise,2026-08-13,Cheeseburger,332.38
+Curry House,2026-06-21,California Roll,519.38
+Biryani Central,2026-09-02,Pad Thai,1043.65
+Pasta Express,2026-08-19,Cheeseburger,538.46
+Curry House,2026-09-16,Cheeseburger,311.01
+Dim Sum Delight,2026-07-24,Cheeseburger,689.55
+Noodle Corner,2026-07-20,California Roll,1091.24
+Biryani Central,2026-08-15,Chocolate Cake,277.96
+Burger Hub,2026-06-24,Pad Thai,1137.62
+Taco Fiesta,2026-09-10,Paneer Butter Masala,173.85
+Sushi Rollers,2026-07-07,Paneer Butter Masala,348.59
+Healthy Greens,2026-08-10,Caesar Salad,1054.11
+Midnight Munchies,2026-08-18,Paneer Butter Masala,1036.75
+Vegan Bites,2026-08-21,Tacos,798.75
+Sushi Rollers,2026-08-24,Chocolate Cake,507.97
+The Kebab Shop,2026-07-18,Margherita Pizza,794.53
+Bake & Cake,2026-08-14,Tacos,290.75
+Pizza Paradise,2026-08-05,California Roll,500.98
+Grill Master,2026-06-26,Caesar Salad,1186.48
+The Kebab Shop,2026-07-10,Chocolate Cake,1160.04
+Midnight Munchies,2026-08-26,Mutton Kebab,996.91
+Taco Fiesta,2026-08-04,Pad Thai,159.09
+Midnight Munchies,2026-08-14,Paneer Butter Masala,576.78
+Biryani Central,2026-08-19,Pad Thai,793.24
+Pizza Paradise,2026-08-26,Caesar Salad,730.62
+Midnight Munchies,2026-09-08,Tacos,1170.97
+Burger Hub,2026-08-31,Cheeseburger,368.13
+Pizza Paradise,2026-07-06,California Roll,921.19
+Biryani Central,2026-07-30,Paneer Butter Masala,369.17
+Taco Fiesta,2026-09-18,Chocolate Cake,223.78
+The Kebab Shop,2026-07-22,Pad Thai,788.23
+Wok This Way,2026-08-16,Paneer Butter Masala,899.57
+Breakfast Club,2026-07-02,Caesar Salad,661.46
+Pizza Paradise,2026-08-21,Pad Thai,420.6
+Noodle Corner,2026-06-20,Pad Thai,819.93
+Bake & Cake,2026-09-02,Tacos,1158.35
+Vegan Bites,2026-09-01,Chicken Biryani,862.21
+Curry House,2026-07-06,Pad Thai,638.92
+The Kebab Shop,2026-08-02,Tacos,673.03
+Spice Village,2026-06-30,Chocolate Cake,974.0
+Noodle Corner,2026-08-31,Pad Thai,1199.53
+Vegan Bites,2026-07-03,Tacos,400.55
+The Kebab Shop,2026-09-12,Mutton Kebab,617.24
+Healthy Greens,2026-07-15,Pad Thai,421.25
+Sweet Cravings,2026-09-16,Mutton Kebab,335.44
+The Kebab Shop,2026-07-21,Chocolate Cake,578.67
+Curry House,2026-09-09,Margherita Pizza,1088.8
+Bake & Cake,2026-08-16,Mutton Kebab,788.78
+Sushi Rollers,2026-07-17,Chicken Biryani,340.57
+Breakfast Club,2026-08-21,Chicken Biryani,755.68
+Sweet Cravings,2026-08-05,Chicken Biryani,352.84
+Bake & Cake,2026-06-27,Pad Thai,684.89
+Curry House,2026-08-29,Cheeseburger,1064.48
+Curry House,2026-07-06,Tacos,430.0
+Biryani Central,2026-08-02,Cheeseburger,593.37
+Spice Village,2026-06-28,Chocolate Cake,1142.11
+Steak Out,2026-07-27,Paneer Butter Masala,694.82
+Curry House,2026-07-04,Pad Thai,384.11
+Wok This Way,2026-08-18,Mutton Kebab,354.26
+Wok This Way,2026-07-19,Margherita Pizza,483.49
+Sweet Cravings,2026-07-25,Margherita Pizza,1161.53
+Breakfast Club,2026-07-14,Chicken Biryani,783.93
+Breakfast Club,2026-08-14,Margherita Pizza,864.19
+Dim Sum Delight,2026-07-14,Chocolate Cake,349.91
+Pizza Paradise,2026-09-18,Caesar Salad,707.53
+Noodle Corner,2026-07-01,Chicken Biryani,544.21
+Curry House,2026-06-24,Mutton Kebab,923.6
+Pizza Paradise,2026-08-13,Cheeseburger,332.38
+Healthy Greens,2026-06-22,Mutton Kebab,265.52
+Midnight Munchies,2026-08-05,Chocolate Cake,970.12
+Spice Village,2026-07-27,Caesar Salad,323.69
+Sushi Rollers,2026-08-12,California Roll,1158.55
+Taco Fiesta,2026-07-16,Paneer Butter Masala,1134.45
+Grill Master,2026-07-02,Caesar Salad,331.41
+Grill Master,2026-09-13,Cheeseburger,575.38
+Noodle Corner,2026-08-08,Chocolate Cake,268.64
+Dim Sum Delight,2026-09-14,Caesar Salad,321.08
+Steak Out,2026-07-01,Margherita Pizza,471.87
+Dim Sum Delight,2026-07-06,Tacos,152.64
+Sushi Rollers,2026-07-24,Caesar Salad,379.21
+Steak Out,2026-07-06,Cheeseburger,370.59
+Midnight Munchies,2026-08-31,Margherita Pizza,852.89
+Curry House,2026-06-24,Mutton Kebab,607.83
+Spice Village,2026-07-17,Chicken Biryani,508.56
+Breakfast Club,2026-07-26,Margherita Pizza,525.91
+Vegan Bites,2026-06-27,Paneer Butter Masala,913.84
+Bake & Cake,2026-07-04,Tacos,354.8
+Taco Fiesta,2026-08-07,Mutton Kebab,933.85
+Curry House,2026-08-24,Chocolate Cake,459.56
+Midnight Munchies,2026-07-30,Mutton Kebab,548.7
+Spice Village,2026-08-04,Tacos,572.33
+Grill Master,2026-08-08,Margherita Pizza,511.0
+Pasta Express,2026-07-11,Margherita Pizza,1079.15
+Vegan Bites,2026-07-08,Paneer Butter Masala,1180.58
+Biryani Central,2026-07-12,Margherita Pizza,1040.31
+Burger Hub,2026-08-13,Chocolate Cake,1076.1
+Curry House,2026-06-21,California Roll,519.38
+Curry House,2026-06-20,Paneer Butter Masala,1059.76
+Wok This Way,2026-08-23,Cheeseburger,1096.22
+Pizza Paradise,2026-07-18,Tacos,877.4
+Biryani Central,2026-09-05,Margherita Pizza,208.66
+Sweet Cravings,2026-09-07,Chicken Biryani,1172.81
+Burger Hub,2026-07-13,California Roll,921.77
+Steak Out,2026-07-01,Margherita Pizza,285.65
+Pizza Paradise,2026-07-06,Pad Thai,466.7
+Vegan Bites,2026-09-04,Chicken Biryani,580.08
+Bake & Cake,2026-07-25,Cheeseburger,1037.87
+Wok This Way,2026-07-05,Tacos,1073.13
+Pizza Paradise,2026-07-23,Margherita Pizza,305.46
+Vegan Bites,2026-08-20,Tacos,806.57
+Noodle Corner,2026-07-15,Cheeseburger,328.73
+Biryani Central,2026-06-23,Caesar Salad,625.35
+Taco Fiesta,2026-08-23,Cheeseburger,939.54
+Taco Fiesta,2026-07-19,Chicken Biryani,459.66
+Healthy Greens,2026-08-22,Margherita Pizza,623.02
+Pasta Express,2026-07-13,Chicken Biryani,954.76
+Taco Fiesta,2026-08-18,Caesar Salad,238.01
+Sweet Cravings,2026-08-20,Tacos,859.87
+Bake & Cake,2026-07-10,Paneer Butter Masala,1124.17
+Healthy Greens,2026-07-23,Margherita Pizza,1129.73
+Pizza Paradise,2026-08-14,Margherita Pizza,501.49
+The Kebab Shop,2026-09-13,California Roll,1092.95
+Grill Master,2026-06-24,Margherita Pizza,208.04
+Wok This Way,2026-06-20,Paneer Butter Masala,932.11
+Healthy Greens,2026-09-18,Chocolate Cake,1163.41
+Taco Fiesta,2026-06-28,Mutton Kebab,759.34
