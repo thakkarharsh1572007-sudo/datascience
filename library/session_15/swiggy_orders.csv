@@ -1,0 +1,1001 @@
+order_id,restaurant,order_total,delivery_time_mins
+1001,Burger King,832,31
+1002,Pizza Hut,873,55
+1003,Dominos,1329,63
+1004,Pizza Hut,338,43
+1005,Taco Bell,390,45
+1006,Burger King,431,31
+1007,Dominos,554,20
+1008,Starbucks,251,57
+1009,Starbucks,1105,59
+1010,Dominos,668,28
+1011,Pizza Hut,1046,51
+1012,Starbucks,637,63
+1013,Dominos,1073,63
+1014,Starbucks,586,19
+1015,McDonalds,652,26
+1016,Pizza Hut,184,23
+1017,Pizza Hut,546,47
+1018,Subway,1247,48
+1019,Burger King,801,37
+1020,Pizza Hut,885,39
+1021,Taco Bell,853,45
+1022,Pizza Hut,840,57
+1023,Dominos,1274,40
+1024,KFC,868,30
+1025,Starbucks,960,62
+1026,Starbucks,243,49
+1027,McDonalds,1232,48
+1028,Subway,987,53
+1029,Subway,1309,30
+1030,Pizza Hut,394,26
+1031,Dominos,212,52
+1032,Dominos,744,47
+1033,KFC,230,55
+1034,Taco Bell,1350,33
+1035,Subway,1429,62
+1036,Burger King,523,25
+1037,KFC,942,52
+1038,Starbucks,523,37
+1039,Dominos,689,62
+1040,Subway,1411,43
+1041,Subway,1099,25
+1042,Pizza Hut,721,44
+1043,Pizza Hut,1374,63
+1044,Subway,919,32
+1045,McDonalds,616,65
+1046,Pizza Hut,702,30
+1047,Subway,552,64
+1048,KFC,632,61
+1049,Pizza Hut,626,47
+1050,Starbucks,681,29
+1051,Subway,723,26
+1052,McDonalds,1294,34
+1053,Dominos,398,55
+1054,Subway,424,16
+1055,KFC,268,30
+1056,KFC,997,20
+1057,McDonalds,1099,52
+1058,Taco Bell,187,56
+1059,Pizza Hut,1277,57
+1060,KFC,175,35
+1061,Taco Bell,1430,54
+1062,Taco Bell,817,16
+1063,Starbucks,1217,62
+1064,McDonalds,1446,65
+1065,Starbucks,683,27
+1066,Pizza Hut,1023,63
+1067,Taco Bell,1413,17
+1068,Pizza Hut,1391,28
+1069,Starbucks,526,35
+1070,Taco Bell,460,16
+1071,Pizza Hut,997,52
+1072,Starbucks,1219,63
+1073,Dominos,388,56
+1074,Burger King,646,42
+1075,Subway,362,28
+1076,Starbucks,964,33
+1077,McDonalds,1412,45
+1078,Dominos,1338,23
+1079,McDonalds,1484,45
+1080,Subway,823,37
+1081,McDonalds,268,51
+1082,Starbucks,470,27
+1083,Subway,1108,26
+1084,Starbucks,1112,25
+1085,Taco Bell,1401,60
+1086,KFC,554,37
+1087,Burger King,997,45
+1088,Burger King,1432,65
+1089,Taco Bell,810,35
+1090,Subway,1264,57
+1091,Taco Bell,813,41
+1092,McDonalds,190,34
+1093,Dominos,1401,58
+1094,Pizza Hut,1170,49
+1095,Dominos,1384,27
+1096,KFC,691,28
+1097,KFC,659,38
+1098,Starbucks,648,29
+1099,Subway,500,63
+1100,Pizza Hut,325,22
+1101,Dominos,593,48
+1102,Subway,993,53
+1103,Starbucks,478,63
+1104,Taco Bell,1325,35
+1105,Dominos,466,44
+1106,Dominos,220,36
+1107,Dominos,1061,29
+1108,McDonalds,215,55
+1109,Burger King,1394,29
+1110,KFC,692,32
+1111,Burger King,1157,28
+1112,McDonalds,579,19
+1113,Burger King,698,53
+1114,KFC,933,42
+1115,Taco Bell,1161,42
+1116,Subway,741,44
+1117,Pizza Hut,1322,15
+1118,Burger King,467,32
+1119,Starbucks,465,49
+1120,KFC,644,64
+1121,Burger King,1248,57
+1122,Pizza Hut,268,34
+1123,Starbucks,626,33
+1124,Dominos,1239,20
+1125,Taco Bell,1202,43
+1126,Starbucks,503,17
+1127,Pizza Hut,463,38
+1128,Taco Bell,382,19
+1129,Pizza Hut,304,30
+1130,McDonalds,649,44
+1131,Dominos,340,37
+1132,Dominos,606,52
+1133,Taco Bell,588,51
+1134,McDonalds,1478,25
+1135,Dominos,1122,27
+1136,Subway,1262,57
+1137,Pizza Hut,441,15
+1138,Taco Bell,1107,59
+1139,Subway,387,58
+1140,Pizza Hut,982,57
+1141,McDonalds,311,37
+1142,Taco Bell,976,16
+1143,Starbucks,636,18
+1144,McDonalds,946,54
+1145,McDonalds,1310,56
+1146,KFC,1409,56
+1147,Pizza Hut,611,37
+1148,Pizza Hut,837,29
+1149,Burger King,1013,48
+1150,Pizza Hut,508,52
+1151,McDonalds,1025,38
+1152,Pizza Hut,356,31
+1153,Burger King,214,22
+1154,Burger King,1138,58
+1155,Burger King,1064,36
+1156,Pizza Hut,424,54
+1157,Burger King,307,17
+1158,Burger King,1165,62
+1159,Pizza Hut,1153,18
+1160,Burger King,911,20
+1161,Starbucks,614,29
+1162,KFC,769,37
+1163,KFC,332,18
+1164,Burger King,1049,33
+1165,Subway,630,16
+1166,Pizza Hut,1138,45
+1167,Burger King,987,47
+1168,Taco Bell,1383,45
+1169,Subway,1370,23
+1170,McDonalds,1087,54
+1171,Starbucks,959,29
+1172,Subway,879,37
+1173,Pizza Hut,184,28
+1174,Subway,505,32
+1175,Burger King,1172,16
+1176,KFC,941,28
+1177,Dominos,280,29
+1178,McDonalds,1494,45
+1179,KFC,876,18
+1180,Burger King,974,23
+1181,Starbucks,1066,58
+1182,Subway,1036,49
+1183,Subway,527,38
+1184,Dominos,281,41
+1185,Burger King,398,64
+1186,Starbucks,534,60
+1187,McDonalds,195,64
+1188,KFC,473,44
+1189,Subway,1158,48
+1190,Starbucks,840,57
+1191,Subway,1256,56
+1192,Starbucks,830,65
+1193,Dominos,1285,51
+1194,Burger King,294,53
+1195,Dominos,897,38
+1196,KFC,395,59
+1197,Subway,1038,60
+1198,Starbucks,909,27
+1199,Taco Bell,502,61
+1200,Dominos,1436,65
+1201,Taco Bell,1484,49
+1202,KFC,1116,43
+1203,Dominos,544,22
+1204,KFC,819,46
+1205,Subway,555,32
+1206,Burger King,1183,28
+1207,Pizza Hut,702,41
+1208,McDonalds,493,61
+1209,Burger King,1141,45
+1210,McDonalds,528,27
+1211,Dominos,1207,22
+1212,Dominos,920,18
+1213,Subway,221,29
+1214,Starbucks,866,25
+1215,Dominos,634,48
+1216,Starbucks,1003,39
+1217,Burger King,749,29
+1218,Dominos,551,35
+1219,Burger King,1365,50
+1220,Burger King,671,65
+1221,Pizza Hut,650,21
+1222,Subway,838,62
+1223,Subway,261,25
+1224,Pizza Hut,1047,63
+1225,Burger King,702,64
+1226,Taco Bell,1393,63
+1227,Dominos,391,47
+1228,Subway,1339,25
+1229,Taco Bell,994,41
+1230,Dominos,359,26
+1231,Burger King,1290,43
+1232,Taco Bell,1469,15
+1233,Dominos,307,21
+1234,KFC,307,64
+1235,Subway,663,46
+1236,KFC,455,51
+1237,Dominos,1040,41
+1238,Burger King,472,39
+1239,Burger King,506,52
+1240,Taco Bell,1065,39
+1241,Dominos,1328,52
+1242,Subway,947,65
+1243,McDonalds,1078,39
+1244,KFC,1358,56
+1245,Starbucks,909,24
+1246,Dominos,1123,18
+1247,Taco Bell,486,47
+1248,Starbucks,948,51
+1249,Subway,340,59
+1250,Dominos,1318,24
+1251,Dominos,1200,24
+1252,Dominos,1066,59
+1253,McDonalds,325,41
+1254,Dominos,590,18
+1255,Subway,630,33
+1256,Burger King,639,32
+1257,Pizza Hut,1193,60
+1258,Subway,218,26
+1259,KFC,933,60
+1260,Dominos,1103,45
+1261,Taco Bell,542,64
+1262,Pizza Hut,952,61
+1263,Burger King,571,31
+1264,KFC,1061,28
+1265,McDonalds,1238,64
+1266,Subway,461,45
+1267,Burger King,460,45
+1268,Burger King,1016,54
+1269,McDonalds,285,50
+1270,Dominos,1449,21
+1271,Starbucks,1266,26
+1272,KFC,1372,30
+1273,Dominos,158,40
+1274,KFC,231,27
+1275,Starbucks,1484,22
+1276,Pizza Hut,1343,37
+1277,Dominos,1468,61
+1278,Burger King,207,45
+1279,Pizza Hut,1279,39
+1280,Burger King,381,36
+1281,Burger King,850,22
+1282,Taco Bell,345,56
+1283,Burger King,477,41
+1284,Burger King,210,20
+1285,Taco Bell,1040,22
+1286,Pizza Hut,219,56
+1287,Burger King,1273,48
+1288,KFC,443,30
+1289,Pizza Hut,1186,26
+1290,KFC,984,36
+1291,Pizza Hut,203,15
+1292,McDonalds,741,50
+1293,Burger King,153,18
+1294,Burger King,333,47
+1295,Pizza Hut,1043,26
+1296,KFC,671,33
+1297,KFC,566,18
+1298,McDonalds,658,36
+1299,McDonalds,204,45
+1300,Pizza Hut,1121,60
+1301,Taco Bell,961,46
+1302,KFC,1465,24
+1303,Burger King,579,42
+1304,Starbucks,229,17
+1305,Taco Bell,451,57
+1306,KFC,485,46
+1307,Dominos,963,32
+1308,KFC,448,48
+1309,Pizza Hut,749,18
+1310,Burger King,1460,24
+1311,Dominos,980,20
+1312,Dominos,1223,64
+1313,KFC,380,50
+1314,Burger King,662,60
+1315,McDonalds,924,53
+1316,Subway,907,65
+1317,McDonalds,824,23
+1318,Pizza Hut,252,59
+1319,Subway,807,38
+1320,Starbucks,1336,22
+1321,Taco Bell,609,24
+1322,Dominos,398,40
+1323,KFC,233,41
+1324,McDonalds,952,19
+1325,Subway,708,62
+1326,Taco Bell,406,56
+1327,Burger King,770,32
+1328,Subway,1497,53
+1329,Burger King,892,40
+1330,McDonalds,168,50
+1331,Dominos,1038,51
+1332,Starbucks,381,31
+1333,McDonalds,1461,46
+1334,Dominos,1485,25
+1335,Burger King,1005,62
+1336,KFC,1497,43
+1337,Pizza Hut,709,17
+1338,Starbucks,177,56
+1339,Subway,1472,47
+1340,KFC,797,62
+1341,Dominos,843,54
+1342,Dominos,1148,20
+1343,Dominos,969,34
+1344,Burger King,1379,39
+1345,Burger King,1300,28
+1346,Taco Bell,1174,28
+1347,Taco Bell,664,19
+1348,Burger King,950,20
+1349,Burger King,1105,33
+1350,Dominos,1089,43
+1351,Burger King,226,38
+1352,KFC,308,43
+1353,Subway,1110,36
+1354,KFC,492,18
+1355,Starbucks,724,61
+1356,Taco Bell,585,17
+1357,Taco Bell,745,48
+1358,Starbucks,531,44
+1359,Dominos,534,29
+1360,Subway,540,57
+1361,Starbucks,856,16
+1362,Pizza Hut,1279,30
+1363,Starbucks,1434,52
+1364,Taco Bell,1479,54
+1365,Burger King,1167,27
+1366,Subway,498,38
+1367,Starbucks,650,44
+1368,Burger King,842,45
+1369,Subway,460,34
+1370,KFC,610,45
+1371,Subway,261,57
+1372,Subway,203,38
+1373,Starbucks,195,56
+1374,Dominos,474,19
+1375,KFC,819,63
+1376,Dominos,445,28
+1377,Burger King,1248,56
+1378,Pizza Hut,906,22
+1379,Subway,167,52
+1380,Pizza Hut,840,27
+1381,McDonalds,860,50
+1382,Pizza Hut,201,18
+1383,Starbucks,156,54
+1384,KFC,1366,39
+1385,KFC,171,49
+1386,Taco Bell,626,54
+1387,Subway,1334,63
+1388,Burger King,213,46
+1389,Starbucks,629,26
+1390,Starbucks,1416,19
+1391,McDonalds,1058,57
+1392,McDonalds,982,31
+1393,Burger King,1160,25
+1394,Starbucks,1425,44
+1395,Subway,973,26
+1396,Burger King,1198,18
+1397,KFC,770,51
+1398,McDonalds,456,29
+1399,Dominos,846,45
+1400,Starbucks,227,35
+1401,Dominos,1225,19
+1402,Pizza Hut,1479,51
+1403,Pizza Hut,1002,43
+1404,Taco Bell,871,64
+1405,Burger King,774,28
+1406,Burger King,1291,53
+1407,Pizza Hut,928,65
+1408,Taco Bell,443,65
+1409,Starbucks,898,40
+1410,KFC,994,60
+1411,Taco Bell,324,30
+1412,McDonalds,1190,62
+1413,KFC,339,55
+1414,Burger King,1402,37
+1415,Dominos,550,45
+1416,KFC,1404,33
+1417,Taco Bell,704,34
+1418,Taco Bell,362,53
+1419,KFC,1376,49
+1420,Pizza Hut,739,56
+1421,Starbucks,805,30
+1422,Pizza Hut,942,63
+1423,McDonalds,408,61
+1424,Starbucks,309,29
+1425,Burger King,669,44
+1426,McDonalds,656,36
+1427,Dominos,745,43
+1428,Taco Bell,1083,26
+1429,KFC,248,21
+1430,Starbucks,1465,30
+1431,McDonalds,1010,36
+1432,Pizza Hut,1063,30
+1433,McDonalds,811,65
+1434,Burger King,1285,41
+1435,McDonalds,1001,64
+1436,KFC,170,53
+1437,KFC,1406,17
+1438,Burger King,512,23
+1439,Burger King,859,60
+1440,Taco Bell,297,15
+1441,Starbucks,1236,42
+1442,Pizza Hut,1360,23
+1443,KFC,1172,40
+1444,Subway,821,25
+1445,Pizza Hut,595,24
+1446,Burger King,1173,38
+1447,KFC,224,19
+1448,Taco Bell,516,52
+1449,Dominos,1303,42
+1450,McDonalds,1236,55
+1451,KFC,916,42
+1452,Starbucks,218,25
+1453,Pizza Hut,815,33
+1454,Subway,546,36
+1455,McDonalds,1299,27
+1456,KFC,1185,41
+1457,Dominos,373,63
+1458,Dominos,451,33
+1459,Pizza Hut,642,41
+1460,Burger King,647,62
+1461,Burger King,508,47
+1462,Pizza Hut,951,58
+1463,Burger King,259,44
+1464,KFC,229,38
+1465,Dominos,705,58
+1466,Taco Bell,417,57
+1467,Pizza Hut,398,40
+1468,Subway,941,28
+1469,Dominos,378,60
+1470,Subway,673,26
+1471,Pizza Hut,1065,51
+1472,Taco Bell,490,37
+1473,Pizza Hut,342,32
+1474,Taco Bell,975,52
+1475,Burger King,973,47
+1476,McDonalds,369,24
+1477,Dominos,1161,39
+1478,Taco Bell,663,53
+1479,McDonalds,764,21
+1480,Taco Bell,343,18
+1481,McDonalds,900,60
+1482,Subway,1320,17
+1483,McDonalds,887,45
+1484,Taco Bell,894,19
+1485,Subway,1363,49
+1486,Dominos,1437,27
+1487,Subway,323,33
+1488,Starbucks,270,47
+1489,Starbucks,1322,40
+1490,KFC,376,35
+1491,McDonalds,169,56
+1492,Dominos,1180,54
+1493,KFC,459,61
+1494,Burger King,361,65
+1495,Pizza Hut,669,65
+1496,Subway,1465,26
+1497,KFC,1441,34
+1498,Dominos,406,50
+1499,McDonalds,1338,43
+1500,KFC,1451,63
+1501,Pizza Hut,1251,24
+1502,Dominos,702,43
+1503,Starbucks,923,50
+1504,Starbucks,462,59
+1505,Subway,1354,22
+1506,Starbucks,310,41
+1507,McDonalds,652,51
+1508,Pizza Hut,913,19
+1509,KFC,716,31
+1510,KFC,1356,52
+1511,Starbucks,990,27
+1512,Dominos,696,39
+1513,KFC,1471,50
+1514,KFC,1256,42
+1515,Subway,184,36
+1516,Pizza Hut,667,47
+1517,KFC,1398,37
+1518,Taco Bell,739,16
+1519,Starbucks,1217,36
+1520,Subway,952,44
+1521,Taco Bell,1100,24
+1522,Starbucks,1435,25
+1523,Starbucks,1204,62
+1524,Dominos,1422,51
+1525,Burger King,1358,46
+1526,Pizza Hut,841,41
+1527,Taco Bell,504,24
+1528,Starbucks,838,50
+1529,KFC,995,59
+1530,McDonalds,1380,30
+1531,Burger King,227,35
+1532,Pizza Hut,586,15
+1533,Starbucks,287,44
+1534,Pizza Hut,1449,19
+1535,Burger King,310,43
+1536,Dominos,592,50
+1537,Subway,956,59
+1538,Subway,518,33
+1539,Subway,545,18
+1540,KFC,738,31
+1541,Taco Bell,1426,22
+1542,Starbucks,551,63
+1543,Dominos,1317,34
+1544,KFC,439,18
+1545,Starbucks,1154,52
+1546,McDonalds,997,60
+1547,KFC,1396,25
+1548,McDonalds,819,49
+1549,KFC,1005,35
+1550,Dominos,1130,55
+1551,KFC,628,26
+1552,McDonalds,741,65
+1553,McDonalds,1084,16
+1554,Dominos,1064,49
+1555,Starbucks,966,62
+1556,Burger King,1264,39
+1557,Starbucks,1255,37
+1558,Taco Bell,979,31
+1559,KFC,1184,41
+1560,Burger King,855,47
+1561,Subway,646,32
+1562,Subway,182,21
+1563,Taco Bell,343,53
+1564,Taco Bell,733,23
+1565,Starbucks,346,56
+1566,Taco Bell,532,65
+1567,Taco Bell,345,15
+1568,Taco Bell,905,58
+1569,Taco Bell,865,60
+1570,Burger King,1483,45
+1571,Dominos,700,50
+1572,McDonalds,348,30
+1573,Dominos,1476,56
+1574,Starbucks,918,20
+1575,Dominos,682,64
+1576,Starbucks,557,37
+1577,Pizza Hut,629,35
+1578,Pizza Hut,1355,35
+1579,McDonalds,155,45
+1580,KFC,649,65
+1581,Dominos,714,44
+1582,Pizza Hut,1020,51
+1583,McDonalds,580,25
+1584,Pizza Hut,298,48
+1585,Taco Bell,1037,49
+1586,Dominos,836,36
+1587,Subway,1257,24
+1588,Pizza Hut,578,23
+1589,McDonalds,1390,24
+1590,KFC,362,31
+1591,Starbucks,1216,34
+1592,Pizza Hut,949,32
+1593,KFC,1212,23
+1594,McDonalds,424,37
+1595,Pizza Hut,361,23
+1596,Subway,900,34
+1597,Starbucks,807,23
+1598,Subway,374,33
+1599,Subway,1482,41
+1600,McDonalds,430,62
+1601,Dominos,419,59
+1602,Pizza Hut,1311,47
+1603,KFC,853,26
+1604,McDonalds,533,30
+1605,Taco Bell,630,31
+1606,Pizza Hut,254,35
+1607,KFC,1163,17
+1608,Starbucks,596,45
+1609,KFC,507,30
+1610,KFC,401,55
+1611,McDonalds,1344,45
+1612,Burger King,1162,64
+1613,Taco Bell,581,45
+1614,Burger King,404,30
+1615,Burger King,764,36
+1616,Taco Bell,350,63
+1617,Subway,437,53
+1618,McDonalds,296,53
+1619,Pizza Hut,356,29
+1620,Taco Bell,1424,44
+1621,McDonalds,625,62
+1622,KFC,391,23
+1623,Pizza Hut,545,18
+1624,McDonalds,620,31
+1625,Subway,231,59
+1626,Dominos,152,31
+1627,McDonalds,1138,19
+1628,Starbucks,1482,40
+1629,Pizza Hut,573,42
+1630,KFC,632,62
+1631,Subway,161,45
+1632,Starbucks,674,24
+1633,Taco Bell,275,61
+1634,Dominos,311,55
+1635,KFC,749,26
+1636,Burger King,1366,22
+1637,Pizza Hut,246,32
+1638,Burger King,567,54
+1639,Taco Bell,1196,24
+1640,Pizza Hut,325,32
+1641,Dominos,1321,25
+1642,Starbucks,485,23
+1643,Pizza Hut,429,58
+1644,Burger King,215,16
+1645,Burger King,399,27
+1646,Starbucks,1199,54
+1647,Taco Bell,987,35
+1648,Taco Bell,714,53
+1649,Subway,923,17
+1650,Starbucks,628,62
+1651,Pizza Hut,879,19
+1652,KFC,1162,24
+1653,Subway,1267,25
+1654,Starbucks,166,39
+1655,Pizza Hut,757,43
+1656,Starbucks,312,31
+1657,Burger King,830,49
+1658,KFC,666,29
+1659,Burger King,392,59
+1660,Pizza Hut,1471,56
+1661,Starbucks,980,48
+1662,McDonalds,1267,64
+1663,Taco Bell,463,20
+1664,McDonalds,1471,64
+1665,Dominos,494,51
+1666,Starbucks,1426,36
+1667,Taco Bell,1478,25
+1668,KFC,153,20
+1669,Taco Bell,1145,30
+1670,Subway,419,31
+1671,Starbucks,682,64
+1672,Subway,634,48
+1673,Subway,495,65
+1674,Dominos,892,59
+1675,Starbucks,342,28
+1676,Starbucks,595,46
+1677,McDonalds,1133,54
+1678,Taco Bell,373,55
+1679,KFC,1171,64
+1680,KFC,1135,62
+1681,Subway,813,28
+1682,Pizza Hut,542,64
+1683,McDonalds,952,17
+1684,Subway,1054,40
+1685,Starbucks,1375,54
+1686,McDonalds,1066,15
+1687,KFC,872,16
+1688,Pizza Hut,314,48
+1689,KFC,908,20
+1690,Starbucks,802,42
+1691,Taco Bell,598,30
+1692,Burger King,441,19
+1693,Pizza Hut,184,51
+1694,Burger King,225,19
+1695,Subway,1263,41
+1696,Subway,1401,47
+1697,Starbucks,848,43
+1698,McDonalds,973,22
+1699,KFC,209,60
+1700,Burger King,457,49
+1701,Subway,932,16
+1702,KFC,158,41
+1703,KFC,966,24
+1704,McDonalds,372,55
+1705,Burger King,285,15
+1706,McDonalds,1396,27
+1707,Starbucks,1330,48
+1708,Dominos,1103,32
+1709,Starbucks,808,39
+1710,Taco Bell,421,44
+1711,KFC,651,48
+1712,Burger King,737,20
+1713,Starbucks,1031,38
+1714,McDonalds,1314,43
+1715,Starbucks,1299,45
+1716,Dominos,209,22
+1717,Burger King,1275,33
+1718,KFC,225,22
+1719,Taco Bell,1493,19
+1720,Dominos,160,19
+1721,Dominos,838,59
+1722,Burger King,817,60
+1723,Dominos,989,37
+1724,McDonalds,1277,50
+1725,Subway,1411,40
+1726,Dominos,1245,49
+1727,Subway,155,65
+1728,Starbucks,963,52
+1729,KFC,1119,30
+1730,Subway,1016,38
+1731,Dominos,832,20
+1732,Subway,1331,26
+1733,KFC,281,40
+1734,McDonalds,1194,38
+1735,Pizza Hut,367,62
+1736,KFC,774,56
+1737,McDonalds,627,40
+1738,Starbucks,387,46
+1739,Taco Bell,379,23
+1740,Pizza Hut,872,49
+1741,Subway,1083,64
+1742,KFC,1415,33
+1743,McDonalds,1086,55
+1744,Subway,160,20
+1745,Dominos,536,15
+1746,Starbucks,1336,56
+1747,Taco Bell,282,35
+1748,Dominos,1054,32
+1749,McDonalds,958,24
+1750,Burger King,903,64
+1751,Pizza Hut,361,62
+1752,Taco Bell,243,47
+1753,KFC,442,55
+1754,Starbucks,151,56
+1755,Starbucks,1027,36
+1756,Subway,322,62
+1757,Subway,781,31
+1758,KFC,613,15
+1759,Subway,520,54
+1760,Starbucks,1159,43
+1761,McDonalds,890,33
+1762,Taco Bell,997,21
+1763,McDonalds,1232,24
+1764,Taco Bell,717,62
+1765,Subway,1344,26
+1766,Burger King,427,53
+1767,Burger King,1327,18
+1768,Pizza Hut,764,48
+1769,Starbucks,452,39
+1770,KFC,989,42
+1771,Burger King,1375,44
+1772,KFC,331,58
+1773,Taco Bell,732,47
+1774,Dominos,249,30
+1775,Subway,651,51
+1776,McDonalds,1358,58
+1777,Starbucks,646,43
+1778,Starbucks,1309,18
+1779,Burger King,332,41
+1780,Starbucks,1268,17
+1781,Subway,1058,57
+1782,Taco Bell,298,53
+1783,Taco Bell,254,25
+1784,Taco Bell,861,55
+1785,Burger King,955,41
+1786,McDonalds,840,44
+1787,Dominos,1233,38
+1788,Starbucks,845,50
+1789,McDonalds,1388,23
+1790,Pizza Hut,347,32
+1791,Subway,1490,40
+1792,Starbucks,1283,41
+1793,Taco Bell,891,23
+1794,Starbucks,179,50
+1795,Pizza Hut,991,22
+1796,Dominos,1438,62
+1797,McDonalds,645,64
+1798,Dominos,405,55
+1799,McDonalds,1275,33
+1800,Starbucks,1191,53
+1801,Burger King,1266,47
+1802,McDonalds,371,42
+1803,Subway,769,49
+1804,McDonalds,1284,46
+1805,McDonalds,350,32
+1806,Taco Bell,570,58
+1807,Pizza Hut,362,41
+1808,Starbucks,1217,30
+1809,Burger King,564,16
+1810,Taco Bell,383,18
+1811,Burger King,1333,34
+1812,McDonalds,226,64
+1813,KFC,394,38
+1814,Pizza Hut,630,57
+1815,KFC,1398,52
+1816,Dominos,403,52
+1817,Burger King,467,38
+1818,KFC,259,37
+1819,Taco Bell,440,22
+1820,Pizza Hut,1291,46
+1821,Subway,224,50
+1822,McDonalds,1175,22
+1823,Starbucks,839,44
+1824,Dominos,495,21
+1825,Burger King,1020,29
+1826,Taco Bell,1140,53
+1827,Burger King,192,60
+1828,Pizza Hut,1139,64
+1829,Burger King,635,43
+1830,McDonalds,805,23
+1831,KFC,1099,31
+1832,Pizza Hut,1490,60
+1833,Pizza Hut,287,47
+1834,Dominos,1387,61
+1835,Starbucks,209,27
+1836,McDonalds,983,45
+1837,Subway,1206,60
+1838,Starbucks,330,17
+1839,KFC,758,29
+1840,Taco Bell,772,56
+1841,Pizza Hut,1013,52
+1842,Pizza Hut,760,61
+1843,McDonalds,936,40
+1844,Burger King,240,46
+1845,Taco Bell,894,17
+1846,Burger King,1465,25
+1847,Taco Bell,739,61
+1848,Subway,1184,44
+1849,Subway,444,56
+1850,Starbucks,1401,39
+1851,KFC,1408,44
+1852,Burger King,1019,50
+1853,Taco Bell,539,15
+1854,Taco Bell,188,54
+1855,Dominos,1292,42
+1856,Subway,1361,46
+1857,Pizza Hut,362,63
+1858,Burger King,936,27
+1859,Taco Bell,746,33
+1860,McDonalds,1000,50
+1861,Taco Bell,1378,15
+1862,Pizza Hut,211,27
+1863,KFC,1026,62
+1864,Taco Bell,762,40
+1865,McDonalds,665,60
+1866,Subway,1464,56
+1867,McDonalds,192,64
+1868,McDonalds,1277,46
+1869,KFC,1373,34
+1870,Burger King,164,41
+1871,McDonalds,419,30
+1872,Burger King,966,56
+1873,Burger King,766,54
+1874,Dominos,668,45
+1875,Pizza Hut,920,16
+1876,Subway,447,32
+1877,McDonalds,653,36
+1878,Starbucks,161,65
+1879,Subway,334,28
+1880,KFC,863,41
+1881,Starbucks,551,43
+1882,Taco Bell,421,57
+1883,Pizza Hut,590,29
+1884,Dominos,1122,62
+1885,Dominos,287,63
+1886,KFC,808,22
+1887,Pizza Hut,1382,49
+1888,Dominos,676,51
+1889,Starbucks,891,52
+1890,Dominos,364,37
+1891,Subway,1192,19
+1892,Subway,1155,44
+1893,Pizza Hut,748,19
+1894,Subway,1101,57
+1895,McDonalds,1290,22
+1896,McDonalds,1082,54
+1897,Taco Bell,246,31
+1898,Taco Bell,806,47
+1899,KFC,610,51
+1900,Pizza Hut,1324,55
+1901,Taco Bell,922,24
+1902,Taco Bell,784,58
+1903,Dominos,953,22
+1904,McDonalds,921,36
+1905,Starbucks,857,27
+1906,Taco Bell,457,27
+1907,Starbucks,1363,65
+1908,Subway,479,37
+1909,Starbucks,582,22
+1910,McDonalds,1482,37
+1911,Starbucks,1073,60
+1912,Burger King,905,33
+1913,Burger King,841,25
+1914,KFC,912,60
+1915,Subway,301,42
+1916,Burger King,1123,54
+1917,Subway,1051,18
+1918,Dominos,631,53
+1919,KFC,352,23
+1920,KFC,965,17
+1921,Subway,511,24
+1922,Starbucks,688,58
+1923,Taco Bell,193,24
+1924,Pizza Hut,1422,59
+1925,KFC,769,16
+1926,Dominos,561,58
+1927,Pizza Hut,1399,29
+1928,Burger King,756,63
+1929,Dominos,1209,55
+1930,Starbucks,974,59
+1931,Burger King,776,29
+1932,Pizza Hut,242,39
+1933,Taco Bell,1159,54
+1934,Dominos,935,20
+1935,Taco Bell,151,34
+1936,McDonalds,1423,33
+1937,Starbucks,1154,18
+1938,Dominos,468,26
+1939,KFC,1497,56
+1940,KFC,925,61
+1941,Starbucks,1028,42
+1942,Taco Bell,325,22
+1943,Subway,495,45
+1944,McDonalds,1406,46
+1945,Dominos,884,49
+1946,Taco Bell,1320,46
+1947,Burger King,715,30
+1948,Starbucks,1292,56
+1949,Starbucks,971,44
+1950,Subway,261,17
+1951,McDonalds,1331,49
+1952,Starbucks,560,37
+1953,McDonalds,208,29
+1954,Burger King,173,62
+1955,Subway,677,17
+1956,McDonalds,569,53
+1957,Burger King,1451,50
+1958,Burger King,881,28
+1959,Taco Bell,1465,19
+1960,KFC,213,23
+1961,Subway,376,26
+1962,McDonalds,676,31
+1963,Dominos,195,45
+1964,Taco Bell,1253,35
+1965,KFC,394,19
+1966,Pizza Hut,502,59
+1967,McDonalds,1356,41
+1968,Dominos,831,29
+1969,Pizza Hut,719,21
+1970,Pizza Hut,683,65
+1971,Subway,1041,32
+1972,Starbucks,1290,17
+1973,Dominos,1351,54
+1974,Subway,1039,55
+1975,Subway,817,36
+1976,McDonalds,402,30
+1977,Taco Bell,353,50
+1978,KFC,1344,29
+1979,Starbucks,778,56
+1980,Dominos,259,19
+1981,McDonalds,1355,49
+1982,McDonalds,947,55
+1983,Subway,1041,28
+1984,Taco Bell,812,19
+1985,Dominos,639,18
+1986,Starbucks,857,64
+1987,Burger King,1487,22
+1988,McDonalds,813,64
+1989,Subway,1304,33
+1990,Starbucks,464,52
+1991,Dominos,241,45
+1992,Subway,1156,28
+1993,Pizza Hut,752,42
+1994,KFC,1222,58
+1995,Starbucks,1015,30
+1996,KFC,1226,39
+1997,Taco Bell,1346,51
+1998,Burger King,576,20
+1999,McDonalds,604,34
+2000,Subway,1265,35
